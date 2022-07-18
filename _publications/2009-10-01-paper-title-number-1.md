@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "MANDA: On Adversarial Example Detection for Network Intrusion Detection System"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2021-05-10
+venue: 'IEEE International Conference on Computer Communications'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'N. Wang, Y. Chen, Y. Hu, W. Lou and Y.T. Hou, “MANDA: On Adversarial Example Detection for Network Intrusion Detection System,” IEEE INFOCOM 2021, May 10-13, 2021, online conference.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: N. Wang, Y. Chen, Y. Hu, W. Lou and Y.T. Hou, “MANDA: On Adversarial Example Detection for Network Intrusion Detection System,” IEEE INFOCOM 2021, May 10-13, 2021, online conference..
