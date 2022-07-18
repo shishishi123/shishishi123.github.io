@@ -16,8 +16,7 @@ I am a Ph.D. candidate at Virginia Tech, working with [Prof. Wenjing Lou](https:
 * Ph.D in Computer Engineering, Virginia Tech, 2023(expected)
 
 ## Intern experience
-* 2022 Summer Intern: Security SDE
-  * Bytedance
+* 2022 Summer Intern at Bytedance: Security SDE
   * Duties included: Building Intelligence for Permission Access Control.
 
 
