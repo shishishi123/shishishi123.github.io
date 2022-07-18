@@ -10,21 +10,18 @@ redirect_from:
 
 I am a Ph.D. candidate at Virginia Tech, working with Prof. Wenjing Lou. My research interests include anomaly detection, adversarial machine learning, and differential privacy.
 
-Education
-======
+## Education
 * B.S. in Communications Engineering, Beijing University of Posts and Telecommunications, 2015
 * M.S. in Electrical and Computer Engineering, Beijing University of Posts and Telecommunications, 2018
 * Ph.D in Computer Engineering, Virginia Tech, 2023(expected)
 
-Work experience
-======
-* 2022 Summer Intern 2022: Security SDE
+## Intern experience
+* 2022 Summer Intern: Security SDE
   * Bytedance
   * Duties included: Building Intelligence for Permission Access Control.
 
 
-News
-======
+## News
 -Our paper FLARE: Defending Federated Learning against Model Poisoning Attacks via Latent Space Representations is accepted by ACM ASIACCS 2022 (Acceptance ratio: 18.4%).(Feb. 2022) [pdf](http://ning-wang1.github.io/files/flare.pdf)
 
 -Our paper MANDA: On Adversarial Example Detection for Network Intrusion Detection System is accepted by IEEE TDSC. (Feb. 2022) [pdf](http://ning-wang1.github.io/files/manda_journal.pdf)
