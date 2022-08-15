@@ -13,7 +13,7 @@ I am a Ph.D. candidate at Virginia Tech, working with [Prof. Wenjing Lou](https:
 ## Education
 * B.S. in Communications Engineering, Beijing University of Posts and Telecommunications, 2015
 * M.S. in Electrical and Computer Engineering, Beijing University of Posts and Telecommunications, 2018
-* Ph.D in Computer Engineering, Virginia Tech, 2023(expected)
+* Ph.D in Computer Engineering, Virginia Tech, 2023 (expected)
 
 ## Intern Experience
 * 2022 Summer Intern at Bytedance: Security SDE
