@@ -21,10 +21,13 @@ I am a Ph.D. candidate at Virginia Tech, working with [Prof. Wenjing Lou](https:
 
 
 ## News
--Our paper FLARE: Defending Federated Learning against Model Poisoning Attacks via Latent Space Representations is accepted by ACM ASIACCS 2022 (Acceptance ratio: 18.4%).(Feb. 2022) [pdf](http://ning-wang1.github.io/files/flare.pdf)
+
+-Our paper FLARE: Defending Federated Learning against Model Poisoning Attacks via Latent Space Representations is accepted by ACM ASIACCS 2022 (Acceptance ratio: 54/294=18.4%).(Feb. 2022) [pdf](http://ning-wang1.github.io/files/flare.pdf)
 
 -Our paper MANDA: On Adversarial Example Detection for Network Intrusion Detection System is accepted by IEEE TDSC. (Feb. 2022) [pdf](http://ning-wang1.github.io/files/manda_journal.pdf)
 
 -Our paper FeCo: Boosting Intrusion Detection Capability in IoT Networks via Contrastive Learning has been accepted by IEEE INFOCOM 2022 (Acceptance ratio: 225/1129=19.9%).(Dec. 2021) [pdf](http://ning-wang1.github.io/files/feco.pdf)
+
+-Our paper MANDA: On Adversarial Example Detection for Network Intrusion Detection System is accepted by IEEE INFOCOM 2021 (Acceptance ratio: 252/1266=19.9%) (Dec. 2020) [pdf](http://ning-wang1.github.io/files/manda.pdf)
 
 
