@@ -1,17 +1,15 @@
 ---
-title: "FeCo: Boosting Intrusion Detection Capability in IoT Networks via Contrastive Learning"
+title: "MANDA: On Adversarial Example Detection for Network Intrusion Detection System"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2022-5-2
-venue: 'IEEE International Conference on Computer Communications 2022'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/manda_journal
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2022-02-10
+venue: ' IEEE Transactions on Dependable and Secure Computing'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'N. Wang, Y. Chen, Y. Xiao, Y. Hu, W. Lou and Y.T. Hou, “MANDA: On Adversarial Example Detection for Network Intrusion Detection System,” in IEEE Transactions on Dependable and Secure Computing, doi: 10.1109/TDSC.2022.3148990.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
-
-N. Wang, Y. Chen, Y. Hu, W. Lou and Y.T. Hou, “FeCo: Boosting Intrusion Detection Capability in IoT Networks via Contrastive Learning,” IEEE INFOCOM 2022, May 2-5, 2022, virtual conference.
+Recommended citation: N. Wang, Y. Chen, Y. Xiao, Y. Hu, W. Lou and Y.T. Hou, “MANDA: On Adversarial Example Detection for Network Intrusion Detection System,” in IEEE Transactions on Dependable and Secure Computing, doi: 10.1109/TDSC.2022.3148990.
