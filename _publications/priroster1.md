@@ -1,16 +1,16 @@
 ---
-title: "Transferability of Adversarial Examples in Machine Learning-based Malware Detection"
+title: "PriRoster: Privacy-preserving Radio Context Attestation in Cognitive Radio Networks"
 collection: publications
-permalink: /publication/cns
-excerpt: 'This paper improves the transferability of adversarial examples (AEs) so that the generated AEs can evade multiple types of ML-based malware detector. We study AE transferability enhancement techniques (i.e., ensemble sample (ES) and ensemble model (EM)) and how they impact AE generation and Android malware detection. Further, we develop a new transfer-based AE generation method, BATE, using a novel feature evenness metric. 
-The idea is to spread perturbations more evenly among perturbed features by incorporating an evenness score in the objective function. '
-date: 2022-10-3
-venue: 'IEEE Conference on Communications and Network Security (CNS)'
-paperurl: 'http://academicpages.github.io/files/CNS.pdf'
-citation: 'Y. Hu, N. Wang, Y. Chen, W. Lou and Y.T. Hou, “Transferability of Adversarial Examples in Machine Learning-based Malware Detection,” CNS, Oct 3-5, 2022, Austin, USA.'
+permalink: /publication/priroster
+excerpt: 'This paper use Trusted execution environment (TEE) To protect a device's configuration information. PriRoster hides sensitive device and/or radio configuration information from untrusted intermediate verifiers in a public network and enables a range of new applications such as efficient network-wide radio context attestation. To improve system scalability and eliminate information side channel leakage, we develop trust transfer protocol and incorporate obliviousness primitive into the attestation program. We build a prototype of the proposed PriRoster system using Raspberry Pi, USRP, Intel NUC, and AWS cloud. '
+date: 2019-11-11
+venue: 'IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN)'
+paperurl: 'http://academicpages.github.io/files/priroster.pdf'
+citation: 'R. Zhang, N. Zhang, N. zhang, Z. Yan, W. Lou and Y.T. Hou, “PriRoster: Privacy-preserving Radio Context Attestation in Cognitive Radio Networks,” DySPAN, Nov 11-14, 2019, Newark, USA.'
 ---
 
  
-[Download paper here](http://academicpages.github.io/files/CNS.pdf)
+[Download paper here](http://academicpages.github.io/files/priroster.pdf)
 
-Recommended citation: Y. Hu, N. Wang, Y. Chen, W. Lou and Y.T. Hou, “Transferability of Adversarial Examples in Machine Learning-based Malware Detection,” CNS, Oct 3-5, 2022, Austin, USA.
+Recommended citation: R. Zhang, N. Zhang, N. zhang, Z. Yan, W. Lou and Y.T. Hou, “PriRoster: Privacy-preserving Radio Context Attestation in Cognitive Radio Networks,” DySPAN, Nov 11-14, 2019, Newark, USA.
+
