@@ -23,7 +23,7 @@ I am a Ph.D. candidate at Virginia Tech, working with [Prof. Wenjing Lou](https:
 ## News
 -Our paper Squeezing More Utility via Adaptive Clipping on Deferentially Private Gradients in Federated Meta-Learning is accepted by The Annual Computer Security Applications Conference (ACSAC22).(Sep. 2022) [pdf](http://ning-wang1.github.io/files/dp.pdf)
 
--Our paper Transferability of Adversarial Examples in Machine Learning-based Malware Detection is accepted by the 2022 IEEE Conference on Communications and Network Security (CNS22).(Feb. 2022) [pdf](http://ning-wang1.github.io/files/cns.pdf)
+-Our paper Transferability of Adversarial Examples in Machine Learning-based Malware Detection is accepted by the 2022 IEEE Conference on Communications and Network Security (CNS22).(Aug. 2022) [pdf](http://ning-wang1.github.io/files/cns.pdf)
 
 -Our paper FLARE: Defending Federated Learning against Model Poisoning Attacks via Latent Space Representations is accepted by the 17th ACM ASIA Conference on Computer and Communications Security (AsiaCCS 2022).(Feb. 2022) [pdf](http://ning-wang1.github.io/files/flare.pdf)
 
