@@ -2,7 +2,7 @@
 title: "PriRoster: Privacy-preserving Radio Context Attestation in Cognitive Radio Networks"
 collection: publications
 permalink: /publication/priroster
-excerpt: 'this'
+excerpt: 'This paper uses trusted execution environment to protect sensitive device and radio configuration information from untrusted intermediate verifiers in a public network. To improve system scalability and eliminate information side channel leakage, we develop trust transfer protocol and incorporate obliviousness primitive into the attestation program.'
 date: 2022-10-3
 venue: 'IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN)'
 paperurl: 'http://academicpages.github.io/files/CNS.pdf'
