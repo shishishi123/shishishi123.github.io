@@ -2,7 +2,7 @@
 title: "PriRoster: Privacy-preserving Radio Context Attestation in Cognitive Radio Networks"
 collection: publications
 permalink: /publication/priroster
-excerpt: ' '
+excerpt: 'this'
 date: 2022-10-3
 venue: 'IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN)'
 paperurl: 'http://academicpages.github.io/files/CNS.pdf'
