@@ -2,7 +2,7 @@
 title: "PriRoster: Privacy-preserving Radio Context Attestation in Cognitive Radio Networks"
 collection: publications
 permalink: /publication/priroster
-excerpt: 'This paper use Trusted execution environment (TEE) To protect a device's configuration information. PriRoster hides sensitive device and radio configuration information from untrusted intermediate verifiers in a public network and enables a range of new applications such as efficient network-wide radio context attestation. To improve system scalability and eliminate information side channel leakage, we develop trust transfer protocol and incorporate obliviousness primitive into the attestation program. We build a prototype of the proposed PriRoster system using Raspberry Pi, USRP, Intel NUC, and AWS cloud. '
+excerpt: 'This paper use Trusted execution environment (TEE) To protect a device's configuration information. '
 date: 2022-10-3
 venue: 'IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN)'
 paperurl: 'http://academicpages.github.io/files/CNS.pdf'
