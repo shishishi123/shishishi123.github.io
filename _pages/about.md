@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at Virginia Tech, working with [Prof. Wenjing Lou](https://www.cnsr.ictas.vt.edu/WJLou.html). My research interests include network intrusion detection, adversarial machine learning, and differential privacy.
+I am a Ph.D. candidate in Bradly Department of Electrical and Computer Engineering at Virginia Tech, working with [Prof. Wenjing Lou](https://www.cnsr.ictas.vt.edu/WJLou.html). My research interests include network intrusion detection, adversarial machine learning, and differential privacy.
 
 ## Education
 * B.S. in Communications Engineering, Beijing University of Posts and Telecommunications, 2015
