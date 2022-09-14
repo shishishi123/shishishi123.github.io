@@ -2,7 +2,7 @@
 title: "PriRoster: Privacy-preserving Radio Context Attestation in Cognitive Radio Networks"
 collection: publications
 permalink: /publication/priroster
-excerpt: 'This paper proposes a privacy preserving remote attestation mechanism, to protect spectrum users sensitive radio configuration information from untrusted intermediate verifiers in a public network via trusted execution environment. '
+excerpt: "This paper proposes a privacy preserving remote attestation mechanism, to protect spectrum users' sensitive radio configuration information from untrusted intermediate verifiers in a public network via trusted execution environment."
 date: 2022-10-3
 venue: 'IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN)'
 paperurl: 'http://ning-wang1.github.io/files/priroster.pdf'
