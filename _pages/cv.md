@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+paperurl: 'http://ning-wang1.github.io/files/manda_journal.pdf'
+
 Education
 ======
 * B.S. in Communications Engineering, Beijing University of Posts and Telecommunications, 2011-2015
