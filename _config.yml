@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ning (Nicole) Wang"
 title_separator          : "-"
-name                     : &name "Ning Wang"
+name                     : &name "Ning (Nicole) Wang"
 description              : &description "personal description"
 url                      : https://ning-wang1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
