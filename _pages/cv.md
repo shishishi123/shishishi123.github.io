@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-paperurl: 'http://ning-wang1.github.io/files/manda_journal.pdf'
+[CV](http://ning-wang1.github.io/files/manda_journal.pdf)
 
 Education
 ======
