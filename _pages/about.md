@@ -10,6 +10,8 @@ redirect_from:
 
 I am a Ph.D. candidate in Bradly Department of Electrical and Computer Engineering at Virginia Tech, under the supervision of [Prof. Wenjing Lou](https://www.cnsr.ictas.vt.edu/WJLou.html) and [Prof. Y. Thomas Hou](https://www.cnsr.ictas.vt.edu/THou.html). My research interests include federated learning, network intrusion detection, adversarial machine learning, and differential privacy.
 
+I expect to graduate in May, 2023. I am looking for a tenure-track assistant professor position. 
+
 ## Education
 * B.S. in Communications Engineering, Beijing University of Posts and Telecommunications, 2015
 * M.S. in Electrical and Computer Engineering, Beijing University of Posts and Telecommunications, 2018
