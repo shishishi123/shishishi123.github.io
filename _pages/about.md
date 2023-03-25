@@ -12,7 +12,7 @@ I am a Ph.D. candidate in Bradly Department of Electrical and Computer Engineeri
 
 I will work as an assistant professor in the Department of Computer Science Engineering at University of South Florida starting from fall 2023. 
 
-<span style="color:blue">Multiple PhD Openings (with assistantship): </span> I am looking for self-motivated students. If this opportunity interests you, kindly reach out to me, providing your resume and any additional documents that will help me gain insight into your academic history and research expertise.
+<span style="color:blue">Multiple PhD Openings (with assistantship): </span> I am looking for self-motivated students with research interests in any area of cybersecurity or the intersection of AI and security. If this opportunity interests you, kindly reach out to me, providing your resume and any supplementary material that will help me gain insight into your academic background and research expertise.
 
 ## Education
 * B.S. in Communications Engineering, Beijing University of Posts and Telecommunications, 2015
