@@ -8,20 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Bradly Department of Electrical and Computer Engineering at Virginia Tech, under the supervision of [Prof. Wenjing Lou](https://www.cnsr.ictas.vt.edu/WJLou.html) and [Prof. Y. Thomas Hou](https://www.cnsr.ictas.vt.edu/THou.html). My research interests include federated learning, network intrusion detection, adversarial machine learning, and differential privacy.
+I am an assistant professor in the Department of Computer Science Engineering at the University of South Florida. My research interests include federated learning, network intrusion detection, adversarial machine learning, and differential privacy.
 
-I will work as an assistant professor in the Department of Computer Science Engineering at University of South Florida starting from fall 2023. 
 
 <span style="color:blue">Multiple PhD Openings (with assistantship): </span> I am looking for self-motivated students with research interests in any area of cybersecurity or the intersection of AI and security. If this opportunity interests you, kindly reach out to me, providing your resume and any supplementary material that will help me gain insight into your academic background and research expertise.
 
 ## Education
 * B.S. in Communications Engineering, Beijing University of Posts and Telecommunications, 2015
 * M.S. in Electrical and Computer Engineering, Beijing University of Posts and Telecommunications, 2018
-* Ph.D in Computer Engineering, Virginia Tech, 2023 (expected)
-
-## Intern Experience
-* 2022 Summer Intern at Bytedance: Security SDE
-  * Duties included: Building Intelligence for Permission Access Control.
+* Ph.D in Computer Engineering, Virginia Tech, 2023
 
 
 ## News
