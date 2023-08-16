@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in the Department of Computer Science Engineering at the University of South Florida. My research interests include federated learning, network intrusion detection, adversarial machine learning, and differential privacy.
+I am an assistant professor in the Department of Computer Science Engineering at the University of South Florida (USF). 
+
+My research interests include federated learning, network intrusion detection, adversarial machine learning, and differential privacy.
 
 
 <span style="color:blue">Multiple PhD Openings (with assistantship): </span> I am looking for self-motivated students with research interests in any area of cybersecurity or the intersection of AI and security. If this opportunity interests you, kindly reach out to me, providing your resume and any supplementary material that will help me gain insight into your academic background and research expertise.
@@ -20,7 +22,9 @@ I am an assistant professor in the Department of Computer Science Engineering at
 
 
 ## News
--Our paper Squeezing More Utility via Adaptive Clipping on Deferentially Private Gradients in Federated Meta-Learning is accepted by The Annual Computer Security Applications Conference (ACSAC22). (Sep. 2022) [pdf](http://ning-wang1.github.io/files/dp.pdf)
+-Our paper MINDFL: Mitigating the Impact of Imbalanced and Noisy-Labeled Data in Federated Learning With Quality and Fairness-Aware Client Selection,' is accepted by IEEE Military Communications Conference (MILCOM 2023). (Aug. 2023)
+
+-Our paper Squeezing More Utility via Adaptive Clipping on Deferentially Private Gradients in Federated Meta-Learning is accepted by The Annual Computer Security Applications Conference (ACSAC 2022). (Sep. 2022) [pdf](http://ning-wang1.github.io/files/dp.pdf)
 
 -Our paper Transferability of Adversarial Examples in Machine Learning-based Malware Detection is accepted by the 2022 IEEE Conference on Communications and Network Security (CNS22). (Aug. 2022) [pdf](http://ning-wang1.github.io/files/CNS.pdf)
 
