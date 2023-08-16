@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in the Department of Computer Science Engineering at the University of South Florida (USF). 
+I am an assistant professor in the Department of [Computer Science Engineering](https://www.usf.edu/engineering/cse/) at the University of South Florida (USF). 
 
 My research interests include federated learning, network intrusion detection, adversarial machine learning, and differential privacy.
+
+
 
 
 <span style="color:blue">Multiple PhD Openings (with assistantship): </span> I am looking for self-motivated students with research interests in any area of cybersecurity or the intersection of AI and security. If this opportunity interests you, kindly reach out to me, providing your resume and any supplementary material that will help me gain insight into your academic background and research expertise.
