@@ -15,7 +15,7 @@ Education
 ======
 * B.S. in Communications Engineering, Beijing University of Posts and Telecommunications, 2011-2015
 * M.S. in Electrical and Computer Engineering, Beijing University of Posts and Telecommunications, 2015-2018
-* Ph.D in Computer Engineering, Virginia Tech, 2018-2023(expected)
+* Ph.D in Computer Engineering, Virginia Tech, 2018-2023
 
 Work experience
 ======
