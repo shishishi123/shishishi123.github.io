@@ -1,15 +1,15 @@
 ---
-title: "FeCo: Boosting Intrusion Detection Capability in IoT Networks via Contrastive Learning"
+title: "BD-SAS: Enabling Dynamic Spectrum Sharing in Low-trust Environment"
 collection: publications
-permalink: /publication/feco
-excerpt: 'This paper presents a machine-learning-based IDS for IoT networks, namely FeCo. FeCo incorporates contrastive learning into FL framework to support distributed intrusion detection. FeCo obtains more representative feature vectors by contrastive learning. These feature vectors have higher discriminative power between normal and malicious traffic. This effectively enables FeCo to achieve better detection accuracy than other baselines.'
-date: 2022-5-2
-venue: 'IEEE International Conference on Computer Communications'
-paperurl: 'http://ning-wang1.github.io/files/feco.pdf'
-citation: 'N. Wang, Y. Chen, Y. Hu, W. Lou and Y.T. Hou, “FeCo: Boosting Intrusion Detection Capability in IoT Networks via Contrastive Learning,” IEEE INFOCOM 2022, May 2-5, 2022, virtual conference.'
+permalink: /publication/bdsas
+excerpt: 'This paper proposes a novel decentralized blockchain-based spectrum access system.'
+date: 2023-4
+venue: 'IEEE Transactions on Cognitive Communications and Networking'
+paperurl: 'http://shishishi123.github.io/files/bdsas.pdf'
+citation: 'Yang Xiao, Shanghao Shi, Wenjing Lou, Chonggang Wang, Xu Li, Ning Zhang, Y Thomas Hou, Jeffrey H Reed, "BD-SAS: Enabling Dynamic Spectrum Sharing in Low-Trust Environment," in IEEE Transactions on Cognitive Communications and Networking, vol. 9, no. 4, pp. 842-856, Aug. 2023, doi: 10.1109/TCCN.2023.3270440.'
 ---
 
 
-[Download paper here](http://ning-wang1.github.io/files/feco.pdf)
+[Download paper here](http://ning-wang1.github.io/files/bdsas.pdf)
 
-Recommended citation: N. Wang, Y. Chen, Y. Hu, W. Lou and Y.T. Hou, “FeCo: Boosting Intrusion Detection Capability in IoT Networks via Contrastive Learning,” IEEE INFOCOM 2022, May 2-5, 2022, virtual conference.
+Recommended citation: Yang Xiao, Shanghao Shi, Wenjing Lou, Chonggang Wang, Xu Li, Ning Zhang, Y Thomas Hou, Jeffrey H Reed, "BD-SAS: Enabling Dynamic Spectrum Sharing in Low-Trust Environment," in IEEE Transactions on Cognitive Communications and Networking, vol. 9, no. 4, pp. 842-856, Aug. 2023, doi: 10.1109/TCCN.2023.3270440.
