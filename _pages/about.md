@@ -20,11 +20,16 @@ My research interests include wireless security, CPS and IoT security, and machi
 
 
 ## News
--Our paper 'TriSAS: Toward Dependable Inter-SAS Coordination with Auditability,' is accepted by the ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS 2024). (Nov. 2023)
+-Our paper 'TriSAS: Toward Dependable Inter-SAS Coordination with Auditability,' is accepted by ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS 2024). (Nov. 2023)
 
--Our paper 'MINDFL: Mitigating the Impact of Imbalanced and Noisy-labeled Data in Federated Learning with Quality and Fairness-Aware Client Selection' is accepted by the IEEE Military Communications Conference (MILCOM 2023). (Aug. 2023)
+-Our paper 'MINDFL: Mitigating the Impact of Imbalanced and Noisy-labeled Data in Federated Learning with Quality and Fairness-Aware Client Selection' is accepted by IEEE Military Communications Conference (MILCOM 2023). (Aug. 2023)
 
--Our paper 'Bijack: Breaking Bitcoin Network with TCP Vulnerabilities' is accepted by the 28th European Symposium on Research in Computer Security (ESORICS 2023). (Aug. 2023)
+-Our paper 'Bijack: Breaking Bitcoin Network with TCP Vulnerabilities' is accepted by 28th European Symposium on Research in Computer Security (ESORICS 2023). (Aug. 2023)
 
--Our paper 'MS-PTP: Protecting Network Timing from Byzantine Attacks' is accepted by the 16th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec 2023). (March. 2023)
+-Our paper 'MS-PTP: Protecting Network Timing from Byzantine Attacks' is accepted by 16th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec 2023). (March. 2023)
 
+-Our paper 'Decentralized spectrum access system: Vision, challenges, and a blockchain solution' is accepted by IEEE Wireless Communications. (March. 2022)
+
+-Our paper 'Challenges and new directions in securing spectrum access systems' is accepted by IEEE Internet of Things Journal. (April. 2021)
+
+-Our paper 'Session key distribution made practical for CAN and CAN-FD message authentication' is accepted by Annual Computer Security Applications Conference (ACSAC 2020). (Dec. 2020)
