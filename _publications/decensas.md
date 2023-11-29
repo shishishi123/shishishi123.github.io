@@ -2,7 +2,7 @@
 title: "Decentralized spectrum access system: Vision, challenges, and a blockchain solution"
 collection: publications
 permalink: /publication/decensas
-excerpt: 'This paper provides a decentralized, fault-tolerant, and auditable SAS'
+excerpt: 'This paper provides a decentralized, fault-tolerant, and auditable spectrum access system.'
 date: 2022-1
 venue: 'IEEE Wireless Communications'
 paperurl: 'http://shishishi123.github.io/files/decensas.pdf'
