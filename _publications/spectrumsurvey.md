@@ -1,16 +1,15 @@
 ---
-title: "Transferability of Adversarial Examples in Machine Learning-based Malware Detection"
+title: "Challenges and new directions in securing spectrum access systems"
 collection: publications
-permalink: /publication/cns
-excerpt: 'This paper improves the transferability of adversarial examples (AEs) so that the generated AEs can evade multiple types of ML-based malware detector. We study AE transferability enhancement techniques (i.e., ensemble sample (ES) and ensemble model (EM)) and how they impact AE generation and Android malware detection. Further, we develop a new transfer-based AE generation method, BATE, using a novel feature evenness metric. 
-The idea is to spread perturbations more evenly among perturbed features by incorporating an evenness score in the objective function. '
-date: 2022-10-3
-venue: 'IEEE Conference on Communications and Network Security (CNS)'
+permalink: /publication/spectrumsurvey
+excerpt: 'This paper provides a comprehensive survey for the security and privacy challenges in the spectrum access systems'
+date: 2021-3
+venue: 'IEEE Internet of Things Journal'
 paperurl: 'http://ning-wang1.github.io/files/CNS.pdf'
-citation: 'Y. Hu, N. Wang, Y. Chen, W. Lou and Y.T. Hou, “Transferability of Adversarial Examples in Machine Learning-based Malware Detection,” CNS, Oct 3-5, 2022, Austin, USA.'
+citation: 'Yang Xiao, Shanghao Shi, Ning Zhang, Wenjing Lou, and Y. Thomas Hou, "Session Key Distribution Made Practical for CAN and CAN-FD Message Authentication", In Annual Computer Security Applications Conference (ACSAC 20), Association for Computing Machinery, New York, NY, USA, 681–693, https://doi.org/10.1145/3427228.3427278.'
 ---
 
  
-[Download paper here](http://ning-wang1.github.io/files/CNS.pdf)
+[Download paper here](http://shishishi123.github.io/files/cansecurity.pdf)
 
-Recommended citation: Y. Hu, N. Wang, Y. Chen, W. Lou and Y.T. Hou, “Transferability of Adversarial Examples in Machine Learning-based Malware Detection,” CNS, Oct 3-5, 2022, Austin, USA.
+Recommended citation: Yang Xiao, Shanghao Shi, Ning Zhang, Wenjing Lou, and Y. Thomas Hou, "Session Key Distribution Made Practical for CAN and CAN-FD Message Authentication", In Annual Computer Security Applications Conference (ACSAC 20), Association for Computing Machinery, New York, NY, USA, 681–693, https://doi.org/10.1145/3427228.3427278.
