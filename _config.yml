@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ning (Nicole) Wang"
+title                    : "Shanghao Shi"
 title_separator          : "-"
-name                     : &name "Ning (Nicole) Wang"
+name                     : &name "Shanghao Shi"
 description              : &description "personal description"
-url                      : https://ning-wang1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shishishi123.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ning-wang1.github.io"
+repository               : "shishishi123.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ning Wang"
-  avatar           : "IMG_0301_new.jpg"
-  bio              : "Assistant Professor at USF"
-  location         : "Tampa, FL, USA"
+  name             : "Shanghao Shi"
+  avatar           : "bio-photo.jpg"
+  bio              : "PhD student at Virginia Tech"
+  location         : "Arlington, VA, USA"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=nrAMv9cAAAAJ&hl=en&inst=13410158990364976897"
