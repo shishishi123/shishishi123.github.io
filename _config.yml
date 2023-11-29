@@ -122,7 +122,6 @@ include:
   - .htaccess
   - _pages
   - files
-  - _publications
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
