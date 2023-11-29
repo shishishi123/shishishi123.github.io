@@ -12,6 +12,6 @@ citation: 'Yang Xiao, Shanghao Shi, Wenjing Lou, Chonggang Wang, Xu Li, Ning Zha
  
 [Download paper here](http://shishishi123.github.io/files/decensas.pdf)
 
-Recommended citation: Yang Xiao, Shanghao Shi, Wenjing Lou, Chonggang Wang, Xu Li, Ning Zhang, Y. Thomas Hou, and Jeffrey H. Reed, "Decentralized spectrum access system: Vision, challenges, and a blockchain solution," IEEE Wireless Communications 29, no. 1 (2022): 220-228.
+Recommended citation: Yang Xiao, Shanghao Shi, Wenjing Lou, Chonggang Wang, Xu Li, Ning Zhang, Y. Thomas Hou, and Jeffrey H. Reed, "Decentralized spectrum access system: Vision, challenges, and a blockchain solution," IEEE Wireless Communications 29, no. 1 (2022) 220-228.
 
 
