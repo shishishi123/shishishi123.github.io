@@ -24,3 +24,7 @@ My research interests include wireless security, CPS and IoT security, and machi
 
 -Our paper 'MINDFL: Mitigating the Impact of Imbalanced and Noisy-labeled Data in Federated Learning with Quality and Fairness-Aware Client Selection' is accepted by the IEEE Military Communications Conference (MILCOM 2023). (Aug. 2023)
 
+-Our paper 'Bijack: Breaking Bitcoin Network with TCP Vulnerabilities' is accepted by the 28th European Symposium on Research in Computer Security (ESORICS 2023). (Aug. 2023)
+
+-Our paper 'MS-PTP: Protecting Network Timing from Byzantine Attacks' is accepted by the 16th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec 2023). (March. 2023)
+
