@@ -1,7 +1,7 @@
 ---
 title: "Decentralized spectrum access system: Vision, challenges, and a blockchain solution"
 collection: publications
-permalink: /_publication/decensas
+permalink: /publication/decensas
 excerpt: 'This paper provides a decentralized, fault-tolerant, and auditable spectrum access system.'
 date: 2022-1
 venue: 'IEEE Wireless Communications'
