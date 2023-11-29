@@ -5,11 +5,11 @@ permalink: /publication/spectrumsurvey
 excerpt: 'This paper provides a comprehensive survey for the security and privacy challenges in the spectrum access systems'
 date: 2021-3
 venue: 'IEEE Internet of Things Journal'
-paperurl: 'http://ning-wang1.github.io/files/CNS.pdf'
-citation: 'Yang Xiao, Shanghao Shi, Ning Zhang, Wenjing Lou, and Y. Thomas Hou, "Session Key Distribution Made Practical for CAN and CAN-FD Message Authentication", In Annual Computer Security Applications Conference (ACSAC 20), Association for Computing Machinery, New York, NY, USA, 681–693, https://doi.org/10.1145/3427228.3427278.'
+paperurl: 'http://shishishi123.github.io/files/spectrumsurvey.pdf'
+citation: 'Shanghao Shi, Yang Xiao, Wenjing Lou, Chonggang Wang, Xu Li, Y. Thomas Hou, and Jeffrey H. Reed, "Challenges and new directions in securing spectrum access systems," IEEE Internet of Things Journal 8, no. 8 (2021): 6498-6518.'
 ---
 
  
-[Download paper here](http://shishishi123.github.io/files/cansecurity.pdf)
+[Download paper here](http://shishishi123.github.io/files/spectrumsurvey.pdf)
 
-Recommended citation: Yang Xiao, Shanghao Shi, Ning Zhang, Wenjing Lou, and Y. Thomas Hou, "Session Key Distribution Made Practical for CAN and CAN-FD Message Authentication", In Annual Computer Security Applications Conference (ACSAC 20), Association for Computing Machinery, New York, NY, USA, 681–693, https://doi.org/10.1145/3427228.3427278.
+Recommended citation: Shanghao Shi, Yang Xiao, Wenjing Lou, Chonggang Wang, Xu Li, Y. Thomas Hou, and Jeffrey H. Reed, "Challenges and new directions in securing spectrum access systems," IEEE Internet of Things Journal 8, no. 8 (2021): 6498-6518.
