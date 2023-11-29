@@ -6,7 +6,7 @@ excerpt: 'This paper provides a novel key distribution mechanism for CAN message
 date: 2020-12-1
 venue: 'Annual Computer Security Applications Conference (ACSAC 20)'
 paperurl: 'http://ning-wang1.github.io/files/CNS.pdf'
-citation: 'Y. Hu, N. Wang, Y. Chen, W. Lou and Y.T. Hou, “Transferability of Adversarial Examples in Machine Learning-based Malware Detection,” CNS, Oct 3-5, 2022, Austin, USA.'
+citation: 'Yang Xiao, Shanghao Shi, Ning Zhang, Wenjing Lou, and Y. Thomas Hou, “Transferability of Adversarial Examples in Machine Learning-based Malware Detection,” CNS, Oct 3-5, 2022, Austin, USA.'
 ---
 
  
