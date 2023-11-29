@@ -1,7 +1,7 @@
 ---
 title: "Challenges and new directions in securing spectrum access systems"
 collection: publications
-permalink: /_publication/spectrumsurvey
+permalink: /publication/spectrumsurvey
 excerpt: 'This paper provides a comprehensive survey for the security and privacy challenges in the spectrum access systems'
 date: 2021-3
 venue: 'IEEE Internet of Things Journal'
