@@ -2,7 +2,7 @@
 title: "Session Key Distribution Made Practical for CAN and CAN-FD Message Authentication"
 collection: publications
 permalink: /publication/cansecurity
-excerpt: 'This paper provides a novel key distribution mechanism for CAN message authentication'
+excerpt: 'This paper provides a novel key distribution mechanism for CAN message authentication.'
 date: 2020-12-1
 venue: 'Annual Computer Security Applications Conference (ACSAC 20)'
 paperurl: 'http://shishishi123.github.io/files/cansecurity.pdf'
