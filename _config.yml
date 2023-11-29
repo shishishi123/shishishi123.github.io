@@ -218,9 +218,9 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  _publications
   - scope:
-      path: "/publications"
+      path: ""
       type: publications
     values:
       layout: single
@@ -236,7 +236,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  _talks
   - scope:
       path: "/_talks"
       type: talks
