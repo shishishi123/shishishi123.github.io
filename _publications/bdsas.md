@@ -1,7 +1,7 @@
 ---
 title: "BD-SAS: Enabling Dynamic Spectrum Sharing in Low-trust Environment"
 collection: publications
-permalink: /_publication/bdsas
+permalink: /publication/bdsas
 excerpt: 'This paper proposes a novel decentralized blockchain-based spectrum access system.'
 date: 2023-4
 venue: 'IEEE Transactions on Cognitive Communications and Networking'
