@@ -12,8 +12,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Communications Engineering, Beijing University of Posts and Telecommunications, 2015 - 2019
-* Ph.D in Computer Science, Virginia Tech, 2019 - now
+* B.S. in Communications Engineering, Beijing University of Posts and Telecommunications, 2015-2019
+* Ph.D in Computer Science, Virginia Tech, 2019-now
 
   
 Teaching
