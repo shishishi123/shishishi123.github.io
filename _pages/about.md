@@ -26,6 +26,8 @@ My research interests include wireless security, CPS and IoT security, and machi
 
 -Our paper 'Bijack: Breaking Bitcoin Network with TCP Vulnerabilities' is accepted by 28th European Symposium on Research in Computer Security (ESORICS 2023). (Aug. 2023)
 
+-Our paper 'BD-SAS: Enabling Dynamic Spectrum Sharing in Low-trust Environment' is accepted by IEEE Transactions on Cognitive Communications and Networking. (April. 2023)
+
 -Our paper 'MS-PTP: Protecting Network Timing from Byzantine Attacks' is accepted by 16th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec 2023). (March. 2023)
 
 -Our paper 'Decentralized spectrum access system: Vision, challenges, and a blockchain solution' is accepted by IEEE Wireless Communications. (March. 2022)
