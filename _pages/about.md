@@ -20,6 +20,8 @@ My research interests include wireless security, CPS and IoT security, and machi
 
 
 ## News
+-Our paper 'Pri-Share: Enabling Inter-SAS Privacy Protection via Secure Multi-Party Spectrum Allocation,' is accepted by IEEE International Symposium on Dynamic Spectrum Access Networks 2024 (DySPAN 2024). (Feb. 2024)
+
 -Our paper 'TriSAS: Toward Dependable Inter-SAS Coordination with Auditability,' is accepted by ACM ASIA Conference on Computer and Communications Security (ASIACCS 2024). (Nov. 2023)
 
 -Our paper 'MINDFL: Mitigating the Impact of Imbalanced and Noisy-labeled Data in Federated Learning with Quality and Fairness-Aware Client Selection' is accepted by IEEE Military Communications Conference (MILCOM 2023). (Aug. 2023)
