@@ -2,7 +2,7 @@
 title: "MS-PTP: Protecting Network Timing from Byzantine Attacks"
 collection: publications
 permalink: /publications/msptp
-excerpt: 'This paper introduces a novel insider attack against the current PTP protocol and introduces a defense agaisnt it.'
+excerpt: 'This paper introduces a novel insider attack against the current PTP protocol and introduces a defense against it.'
 date: 2023-5-1
 venue: '16th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec 23)'
 paperurl: 'http://shishishi123.github.io/files/msptp.pdf'
