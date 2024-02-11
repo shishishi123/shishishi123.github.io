@@ -1,7 +1,7 @@
 ---
 title: "BD-SAS: Enabling Dynamic Spectrum Sharing in Low-trust Environment"
 collection: publications
-permalink: /publications/bdsas
+permalink: /publications
 excerpt: 'This paper proposes a novel decentralized blockchain-based spectrum access system.'
 date: 2023-4-1
 venue: 'IEEE Transactions on Cognitive Communications and Networking'
@@ -12,7 +12,7 @@ citation: 'Yang Xiao, Shanghao Shi, Wenjing Lou, Chonggang Wang, Xu Li, Ning Zha
 ---
 title: "BD-SAS: Enabling Dynamic Spectrum Sharing in Low-trust Environment"
 collection: publications
-permalink: /publications/bdsas
+permalink: /publications
 excerpt: 'This paper proposes a novel decentralized blockchain-based spectrum access system.'
 date: 2023-4-1
 venue: 'IEEE Transactions on Cognitive Communications and Networking'
