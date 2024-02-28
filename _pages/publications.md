@@ -4,7 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+## 2024
+- **Shanghao Shi**, Yang Xiao, Changlai Du, Yi Shi, Chonggang Wang, Robert Gazda, Y. Thomas Hou, Eric Burger, Luiz DaSilva, and Wenjing Lou. 2024. "TriSAS: Toward Dependable Inter-SAS Coordination with Auditability." In ACM Asia Conference on Computer and Communications Security (ASIA CCS’24), July 1–5, 2024, Singapore, Singapore. ACM, New York, NY, USA, 13 pages. https://doi.org/10.1145/3634737.3645005
 ## 2023
 - Chaoyu Zhang, Ning Wang, **Shanghao Shi**, Changlai Du, Wenjing Lou, and Y. Thomas Hou. "MINDFL: Mitigating the Impact of Imbalanced and Noisy-labeled Data in Federated Learning with Quality and Fairness-Aware Client Selection." In 2023 IEEE Military Communications Conference (MILCOM 23), pp. 331-338. IEEE, 2023.
 - Shaoyu Li, **Shanghao Shi**, Yang Xiao, Chaoyu Zhang, Y. Thomas Hou, and Wenjing Lou. "Bijack: Breaking Bitcoin Network with TCP Vulnerabilities." In European Symposium on Research in Computer Security (ESORICS 23), pp. 306-326. Cham: Springer Nature Switzerland, 2023. [[PDF]](http://shishishi123.github.io/files/Bijack.pdf)
