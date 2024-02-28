@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the [Department of Computer Science]([[https://cs.vt.edu/]]) at the Virginia Tech. 
+I am a PhD student in the [Department of Computer Science]([[https://cs.vt.edu/]]) at Virginia Tech. 
 
 My research interests include wireless security, CPS and IoT security, and machine learning security.
 
@@ -16,7 +16,7 @@ My research interests include wireless security, CPS and IoT security, and machi
 
 ## Education
 * B.S. in Communications Engineering, Beijing University of Posts and Telecommunications, 2015-2019
-* Ph.D in Computer Science, Virginia Tech, 2019-now
+* Ph.D. in Computer Science, Virginia Tech, 2019-now
 
 
 ## News
