@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2024
-- Hexuan Yu, **Shanghao Shi**, Yi Shi, Eric Burger, Y. Thomas Hou, and Wenjing Lou. "Pri-Share: Enabling Inter-SAS Privacy Protection via Secure Multi-Party Spectrum Allocation." In 2024 IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN 24). (to appear)
+- Hexuan Yu, **Shanghao Shi**, Yi Shi, Eric Burger, Y. Thomas Hou, and Wenjing Lou. "Pri-Share: Enabling Inter-SAS Privacy Protection via Secure Multi-Party Spectrum Allocation." In 2024 IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN 24). (to appear) [[PDF]](http://shishishi123.github.io/files/sas-privacy.pdf)
 - **Shanghao Shi**, Yang Xiao, Changlai Du, Yi Shi, Chonggang Wang, Robert Gazda, Y. Thomas Hou, Eric Burger, Luiz DaSilva, and Wenjing Lou. 2024. "TriSAS: Toward Dependable Inter-SAS Coordination with Auditability." In ACM Asia Conference on Computer and Communications Security (ASIA CCS’24), July 1–5, 2024, Singapore, Singapore. ACM, New York, NY, USA, 13 pages. https://doi.org/10.1145/3634737.3645005 [[PDF]](http://shishishi123.github.io/files/trisas.pdf)
 
 ## 2023
