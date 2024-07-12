@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2024
+- **Shanghao Shi**, MD Shahedul Haque, Abhijeet Parida, Marius Linguraru, Y. Thomas Hou, Syed Anwar, and Wenjing Lou. "Harvesting Private Medical Images in Federated Learning Systems with Crafted Models". Submitted to the IEEE Conference on Communications and Network Security 2024 (CNS'24).
+- Heng Jin, Chaoyu Zhang, **Shanghao Shi**, Wenjing Lou, and Y. Thomas Hou. "ProFLingo: A Fingerprinting-based Intellectual Property Protection Scheme for Large Language Models". Submitted to the IEEE Conference on Communications and Network Security 2024 (CNS'24).
+- Chaoyu Zhang, Hexuan Yu, **Shanghao Shi**, Shaoyu Li, Yi Shi, Y. Thomas Hou, and Wenjing Lou. "StarCast: A Secure and Efficient Multicast Scheme in LEO Satellite Networks". Submitted to the IEEE Military Communications Conference 2024 (MILCOM'24).
 - **Shanghao Shi**, Ning Wang, Yang Xiao, Chaoyu Zhang, Yi Shi, Y. Thomas Hou, and Wenjing Lou. "Scale-MIA: A Scalable Model Inversion Attack against Secure Federated Learning via Latent Space Reconstruction". Submitted to the ACM Conference on Computer and Communications Security 2024 (CCS'24).
 - Chaoyu Zhang, **Shanghao Shi**, Ning Wang, Xiangxiang Xu, Shaoyu Li, Lizhong Zheng, Randy Marchany, Mark Gardner, Y. Thomas Hou, and Wenjing Lou. "Hermes: Boosting the Performance of Machine-Learning-based
 Intrusion Detection System through Geometric Feature Learning". Submitted to the 25th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc'24).
