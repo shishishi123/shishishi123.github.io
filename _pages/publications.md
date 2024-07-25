@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2024
-- **Shanghao Shi**, MD Shahedul Haque, Abhijeet Parida, Marius Linguraru, Y. Thomas Hou, Syed Anwar, and Wenjing Lou. "Harvesting Private Medical Images in Federated Learning Systems with Crafted Models". In the arXiv preprint arXiv: 2407.09972, 2024. [[PDF]](https://arxiv.org/pdf/2407.09972)
+- **Shanghao Shi**, Md Shahedul Haque, Abhijeet Parida, Marius Linguraru, Y. Thomas Hou, Syed Anwar, and Wenjing Lou. "Harvesting Private Medical Images in Federated Learning Systems with Crafted Models". In the arXiv preprint arXiv: 2407.09972, 2024. [[PDF]](https://arxiv.org/pdf/2407.09972)
 - Heng Jin, Chaoyu Zhang, **Shanghao Shi**, Wenjing Lou, and Y. Thomas Hou. "ProFLingo: A Fingerprinting-based Intellectual Property Protection Scheme for Large Language Models". In the arXiv preprint arXiv: 2405.02466, 2024. [[PDF]](https://arxiv.org/pdf/2405.02466)
 - **Shanghao Shi**, Ning Wang, Yang Xiao, Chaoyu Zhang, Yi Shi, Y. Thomas Hou, and Wenjing Lou. "Scale-MIA: A Scalable Model Inversion Attack against Secure Federated Learning via Latent Space Reconstruction". In the arXiv preprint arXiv: 2311.05808, 2024. [[PDF]](https://arxiv.org/pdf/2311.05808)
 - Ning Wang, **Shanghao Shi**, Yang Xiao, Yimin Chen, Y. Thomas Hou, and Wenjing Lou. "BoBa: Boosting Backdoor Detection through Data Distribution Inference in Federated Learning". In the arXiv preprint arXiv: 2407.09658, 2024. [[PDF]](https://arxiv.org/pdf/2407.09658)
