@@ -23,6 +23,6 @@ I am a PhD student in the [Department of Computer Science](https://cs.vt.edu/) a
 - Our paper 'Bijack: Breaking Bitcoin Network with TCP Vulnerabilities' was accepted by the 28th European Symposium on Research in Computer Security (ESORICS 2023). (Aug. 2023)
 - Our paper 'BD-SAS: Enabling Dynamic Spectrum Sharing in Low-trust Environment' was accepted by the IEEE Transactions on Cognitive Communications and Networking. (April. 2023)
 - Our paper 'MS-PTP: Protecting Network Timing from Byzantine Attacks' was accepted by the 16th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec 2023). (March. 2023)
-- Our paper 'Decentralized spectrum access system: Vision, challenges, and a blockchain solution' was accepted by the IEEE Wireless Communications. (March. 2022)
+- Our paper 'Decentralized spectrum access system: Vision, challenges, and a blockchain solution' was accepted by IEEE Wireless Communications. (March. 2022)
 - Our paper 'Challenges and new directions in securing spectrum access systems' was accepted by the IEEE Internet of Things Journal. (April. 2021)
 - Our paper 'Session key distribution made practical for CAN and CAN-FD message authentication' was accepted by the Annual Computer Security Applications Conference (ACSAC 2020). (Dec. 2020)
