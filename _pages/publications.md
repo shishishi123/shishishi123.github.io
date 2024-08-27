@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2024
+- Chaoyu Zhang, **Shanghao Shi**, Ning Wang, Xiangxiang Xu, Shaoyu Li, Lizhong Zheng, Randy Marchany, Mark Gardner, Y. Thomas Hou, Wenjing Lou. "Hermes: Boosting the Performance of Machine-Learning-Based Intrusion Detection System through Geometric Feature Learning". In the 25th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc 24). [[PDF]](http://shishishi123.github.io/files/hermes.pdf)
 - **Shanghao Shi**, Md Shahedul Haque, Abhijeet Parida, Marius Linguraru, Y. Thomas Hou, Syed Anwar, and Wenjing Lou. "Harvesting Private Medical Images in Federated Learning Systems with Crafted Models". In the arXiv preprint arXiv: 2407.09972, 2024. [[PDF]](https://arxiv.org/pdf/2407.09972)
 - Heng Jin, Chaoyu Zhang, **Shanghao Shi**, Wenjing Lou, and Y. Thomas Hou. "ProFLingo: A Fingerprinting-based Intellectual Property Protection Scheme for Large Language Models". In the IEEE Conference on Communications and Network Security 2024 (CNS 24). [[PDF]](https://arxiv.org/pdf/2405.02466)
 - **Shanghao Shi**, Ning Wang, Yang Xiao, Chaoyu Zhang, Yi Shi, Y. Thomas Hou, and Wenjing Lou. "Scale-MIA: A Scalable Model Inversion Attack against Secure Federated Learning via Latent Space Reconstruction". In the arXiv preprint arXiv: 2311.05808, 2024. [[PDF]](https://arxiv.org/pdf/2311.05808)
