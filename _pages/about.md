@@ -16,6 +16,7 @@ I am a PhD candidate in the [Department of Computer Science](https://cs.vt.edu/)
 
 ## News
 - Our paper 'Scale-MIA: A Scalable Model Inversion Attack against Secure Federated Learning via Latent Space Reconstruction', was accepted by the Network and Distributed System Security Symposium (**NDSS 2025**). (Nov. 2024)
+- Our paper 'ProFLingo: A Fingerprinting-based Intellectual Property Protection Scheme for Large Language Models', won **best paper award** of the IEEE Conference on Communications and Network Security 2024 (**CNS 2024**). (Aug. 2024)
 - Our paper 'ProFLingo: A Fingerprinting-based Intellectual Property Protection Scheme for Large Language Models', was accepted by the IEEE Conference on Communications and Network Security 2024 (**CNS 2024**). (Aug. 2024)
 - Our paper 'Hermes: Boosting the Performance of Machine-Learning-Based Intrusion Detection System through Geometric Feature Learning', was accepted by the 25th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (**MobiHoc 2024**). (Aug. 2024)
 - Our paper 'Pri-Share: Enabling Inter-SAS Privacy Protection via Secure Multi-Party Spectrum Allocation,' was accepted by the IEEE International Symposium on Dynamic Spectrum Access Networks 2024 (**DySPAN 2024**). (Feb. 2024)
