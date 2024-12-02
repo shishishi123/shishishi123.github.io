@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Shanghao's CV in PDF](http://shishishi123.github.io/files/Shanghao_CV_Academic.pdf)
+[Shanghao's CV in PDF](https://shishishi123.github.io/files/Shanghao_CV_Academic.pdf)
 
 ## Awards
 - National Scholarship 2016
