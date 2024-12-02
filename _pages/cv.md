@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Shanghao's CV in PDF](https://cs.vt.edu/)
+
 ## Awards
 - National Scholarship 2016
 - Bitshare Scholarship 2021, 2023
