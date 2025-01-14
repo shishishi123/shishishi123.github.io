@@ -12,5 +12,3 @@ author_profile: true
 ## Building Trustworthy and Verifiable Spectrum Sharing Systems
 
 ## Protecting Network Timing from Byzantine Attacks
-
-{% include base_path %}
