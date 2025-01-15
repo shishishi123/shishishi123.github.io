@@ -13,10 +13,13 @@ author_profile: true
 - To address this, a multi-party computation mechanism named *secure aggregation* is proposed, which hides individual model updates behind cryptographic masks but keeps the aggregated results identical to pre-masked values to keep system utility. This prevents the optimization-based attackers from obtaining individual model updates, effectively defending these attacks.
 - In this research, we investigate whether the parameter server can still reconstruct local client samples from model updates when the secure aggregation protocol is in place.
 
-<figure style="text-align: center; margin: auto;">
-  <img align="center" src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/ScaleMIA-ThreatModel.png" alt="Threat model" style="width:350px;height:auto; display: block; margin: auto;"/>
-  <br>
-  <figcaption style="caption-side: bottom; text-align: center;">Threat model for the model inversion attacks.</figcaption>
+<figure style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: auto;">
+  <img src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/ScaleMIA-ThreatModel.png" 
+       alt="Threat model" 
+       style="width:350px; height:auto; display: block; margin: auto;" />
+  <figcaption style="caption-side: bottom; text-align: center; margin-top: 10px;">
+    Threat model for the model inversion attacks.
+  </figcaption>
 </figure>
 
 ## Research Work 1: A More Scalable and Efficient Model Inversion Attack
