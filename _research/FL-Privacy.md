@@ -1,11 +1,9 @@
 ---
 title: "Model Inversion Attacks against Secure Federated Learning Systems"
 collection: research
-permalink: /research/FL-Privacy
+permalink: /research/FL-Privacy/
 author_profile: true
 ---
-
-## Model Inversion Attacks against Secure Federated Learning Systems
 
 ## Research Problem
 - Federated learning (FL) is a distributed learning paradigm that enables its participants to collaboratively train machine learning models without sharing local datasets. In this context, it is considered as a *privacy-preserving* paradigm. 
