@@ -15,6 +15,7 @@ author_profile: true
 
 <figure style="text-align: center; margin: auto;">
   <img align="center" src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/ScaleMIA-ThreatModel.png" alt="Threat model" style="width:350px;height:auto; display: block; margin: auto;"/>
+  <br>
   <figcaption style="caption-side: bottom; text-align: center;">Threat model for the model inversion attacks.</figcaption>
 </figure>
 
@@ -25,7 +26,8 @@ author_profile: true
 
 <figure style="text-align: center; margin: auto;">
 <img src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/Attackflow.png" alt="Attack flow" height="450"/>
-<figcaption style="caption-side: bottom; text-align: center;">Scale-MIA is a two-phase attack. The first phase is performed locally to produce essential information to conduct the second phase. The second is the actual attack phase, during which the attacker interacts with the clients and reconstructs their local training samples.</figcaption>
+<br>
+<figcaption style="caption-side: bottom; text-align: center;"> Scale-MIA is a two-phase attack. The first phase is performed locally to produce essential information to conduct the second phase. The second is the actual attack phase, during which the attacker interacts with the clients and reconstructs their local training samples.</figcaption>
 </figure>
 
 ## Results
@@ -35,6 +37,7 @@ author_profile: true
   <img src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/celeba_input_batch.png" alt="Image 1" style="width:450px; height:auto;"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/celeba_recovered_batch.png" alt="Image 2" style="width:450px; height:auto;"/>
+  <br>
   <figcaption style="caption-side: bottom; text-align: center;">The comparison between the original images and the reconstructed images with batch size 64 on CelebA.</figcaption>
 </div>
 
@@ -43,6 +46,9 @@ author_profile: true
 - MedLeak can target both medical image and text data, demonstrating its broad applicability in the medical domain.
 - MedLeak designs two modules including the "Zero Gradient" module for all clients except the victim and the "Linear Leakage" module for the target victim. The first module can retrieve individual model updates from the aggregated results, and the second module can efficiently reverse the individual model updates back to local samples.
 - MedLeak can link the recovered images to their owners.
+
+
+
 
 ## Results
 
