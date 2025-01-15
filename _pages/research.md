@@ -9,4 +9,4 @@ My research interests focus on the intersection area between **computer security
 
 [Model Inversion Attacks against Secure Federated Learning Systems](https://shishishi123.github.io/research/FL-Privacy/)
 
-[Protecting network timing from Byzantine attacks within time-sensitive IoT networks. ](https://shishishi123.github.io/research/IoT-Security/)
+[Protecting Network Timing from Byzantine Attacks within Time-Sensitive IoT Networks](https://shishishi123.github.io/research/IoT-Security/)
