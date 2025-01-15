@@ -13,7 +13,7 @@ author_profile: true
 - To address this, a multi-party computation mechanism named *secure aggregation* is proposed, which hides individual model updates behind cryptographic masks but keeps the aggregated results identical to pre-masked values to keep system utility. This prevents the optimization-based attackers from obtaining individual model updates, effectively defending these attacks. 
 
 <figure>
-<img src="https://github.com/shishishi123/shishishi123.github.io/blob/master/files/figures/ScaleMIA-ThreatModel.png" alt="drawing" width="350" height="350" />
+<img src="https://github.com/shishishi123/shishishi123.github.io/blob/master/files/figures/ScaleMIA-ThreatModel.png" alt="Threat model" width="350" height="350"/>
 <figcaption>Threat model for model inversion attacks in secure federated learning systems.</figcaption>
 </figure>
 
@@ -24,7 +24,7 @@ author_profile: true
 - Our attack challenges the fundamental privacy-preserving property of the federated learning systems, and calls for effective defense against such advanced attacks.
 
 <figure>
-<img src="https://github.com/shishishi123/shishishi123.github.io/blob/master/files/figures/Attackflow.png" alt="drawing" height="450" />
+<img src="https://github.com/shishishi123/shishishi123.github.io/blob/master/files/figures/Attackflow.png" alt="Attack flow" height="450"/>
 <figcaption>Scale-MIA is a two-phase attack. The first phase is performed locally to produce essential information to conduct the second phase. The second is the actual attack phase, during which the attacker interacts with the clients and reconstructs their local training samples.</figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ author_profile: true
 - We implement our attack on popular machine learning models and datasets and the results show that our attack can reconstruct hundreds of local training samples simultaneously within a few seconds.
 
 <figure>
-<img src="https://github.com/shishishi123/shishishi123.github.io/blob/master/files/figures/celeba_input_batch.png" alt="drawing" width="450" />
-<img src="https://github.com/shishishi123/shishishi123.github.io/blob/master/files/figures/celeba_recovered_batch.png" alt="drawing" width="450" />
+<img src="https://github.com/shishishi123/shishishi123.github.io/blob/master/files/figures/celeba_input_batch.png" alt="Original samples" width="450"/>
+<img src="https://github.com/shishishi123/shishishi123.github.io/blob/master/files/figures/celeba_recovered_batch.png" alt="Recovered samples" width="450"/>
 <figcaption>The comparison between the original images and the reconstructed images with batch size 64 on CelebA.</figcaption>
 </figure>
