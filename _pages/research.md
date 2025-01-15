@@ -5,6 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
+{% include base_path %}
 
 ## Model Inversion Attacks against Secure Federated Learning Systems
 
@@ -37,3 +38,7 @@ author_profile: true
 <img src="https://github.com/shishishi123/shishishi123.github.io/blob/master/files/figures/celeba_recovered_batch.png" alt="drawing" width="450" />
 <figcaption>The comparison between the original images and the reconstructed images with batch size 64 on CelebA.</figcaption>
 </figure>
+
+{% for post in site.pages %}
+{% include archive-single.html %}
+{% endfor %}
