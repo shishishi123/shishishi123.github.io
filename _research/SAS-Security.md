@@ -9,10 +9,25 @@ author_profile: true
 
 - To address spectrum scarcity in 5G, the FCC and NTIA opened the 3.55GHz-3.7GHz band for shared use among military and commercial users under a three-tiered access model, in which military users have the highest priority to gain spectrum resources on demand, and commercial users locate at lower two layers utilizing spectrum resources when available.
 
+<figure style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: auto;">
+  <img src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/Three-tier-access.png" 
+       alt="Three tier access model" 
+       style="width:1050px; height:auto; display: block; margin: auto;" />
+  <figcaption style="caption-side: bottom; text-align: center; margin-top: 10px;">
+    Three-tier spectrum access system for the 3.55GHz-3.7GHz CBRS band.
+  </figcaption>
+</figure>
 
 - Seven entities, including Google and Federated Wireless, manage the shared band via their own Spectrum Access System (SAS) servers. However, the lack of coordination among these entities risks allocation conflicts and service disruption.
 
-
+<figure style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: auto;">
+  <img src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/SAS-SystemModel.png" 
+       alt="SAS system model" 
+       style="width:1050px; height:auto; display: block; margin: auto;" />
+  <figcaption style="caption-side: bottom; text-align: center; margin-top: 10px;">
+    Spectrum Access System (SAS) system model. Each SAS administrator own and manage their own customers and services.
+  </figcaption>
+</figure>
 
 - In this research, we propose a fault-tolerant, verifiable, and efficient inter-SAS coordination mechanism named TriSAS.
 - We leverage the blockchain database as the fundamental backbone to store all records in the transactions, where each SAS serves as a blockchain node.
