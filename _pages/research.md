@@ -27,10 +27,14 @@ author_profile: true
 - Our attack identifies the latent space as the key layer to breach the privacy and decompose the complex reconstruction problem into two steps including first reversing the aggregated model updates back to latent space representations (LSRs) via an attack module named linear leakage, and then reversing the LSRs back to local training samples via a fine-tuned decoder.
 - Our attack only involves closed-form calculations, and thus is much more efficient than existing works. 
 
-<figure style="text-align: center; margin: auto;">
-<img src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/Attackflow.png" alt="Attack flow" height="450"/>
-<br>
-<figcaption style="caption-side: bottom; text-align: center;"> Scale-MIA is a two-phase attack. The first phase is performed locally to produce essential information to conduct the second phase. The second is the actual attack phase, during which the attacker interacts with the clients and reconstructs their local training samples.</figcaption>
+<figure style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: auto;">
+  <img src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/Attackflow.png" 
+       alt="Attack flow" 
+       style="height: 450px; display: block; margin: auto;" />
+  <figcaption style="caption-side: bottom; text-align: center; margin-top: 10px;">
+    Scale-MIA is a two-phase attack. The first phase is performed locally to produce essential information to conduct the second phase. 
+    The second is the actual attack phase, during which the attacker interacts with the clients and reconstructs their local training samples.
+  </figcaption>
 </figure>
 
 ## Results
