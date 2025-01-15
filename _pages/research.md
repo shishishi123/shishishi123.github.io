@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-{% include base_path %}
-
 ## Model Inversion Attacks against Secure Federated Learning Systems
 
 ## Research Background
