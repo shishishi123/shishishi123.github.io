@@ -39,8 +39,12 @@ author_profile: true
 </div>
 
 ## Research Work 2: Reconstructing Multi-modal Data in Medical Federated Learning
-- asasa
+- We propose MedLeak, a novel and powerful MIA that is capable of recovering high-quality medical samples efficiently, even when state-of-the-art cryptography-based defense mechanisms such as secure aggregation are employed.
+- MedLeak can target both medical image and text data, demonstrating its broad applicability in the medical domain.
+- MedLeak designs two modules including the "Zero Gradient" module for all clients except the victim and the "Linear Leakage" module for the target victim. The first module can retrieve individual model updates from the aggregated results, and the second module can efficiently reverse the individual model updates back to local samples.
+- MedLeak can link the recovered images to their owners.
 
+## Results
 
 ## Reference
 
