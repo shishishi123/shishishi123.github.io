@@ -36,6 +36,13 @@ author_profile: true
 ## Experiment Results
 - We implement our attack on popular machine learning models and datasets and the results show that our attack can reconstruct hundreds of local training samples simultaneously within a few seconds.
 
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://github.com/shishishi123/shishishi123.github.io/blob/master/files/figures/celeba_input_batch.png" alt="Image 1" style="width:350px; height:auto;">
+  &nbsp;
+  <img src="https://github.com/shishishi123/shishishi123.github.io/blob/master/files/figures/celeba_recovered_batch.png" alt="Image 2" style="width:350px; height:auto;">
+</div>
+
+
 <figure>
 <img src="https://github.com/shishishi123/shishishi123.github.io/blob/master/files/figures/celeba_input_batch.png" alt="Original samples" width="450"/>
 <img src="https://github.com/shishishi123/shishishi123.github.io/blob/master/files/figures/celeba_recovered_batch.png" alt="Recovered samples" width="450"/>
