@@ -12,7 +12,7 @@ author_profile: true
 <figure style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: auto;">
   <img src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/Three-tier-access.png" 
        alt="Three tier access model" 
-       style="width:850px; height:auto; display: block; margin: auto;" />
+       style="width:700px; height:auto; display: block; margin: auto;" />
   <figcaption style="caption-side: bottom; text-align: center; margin-top: 10px;">
     Three-tier spectrum access system for the 3.55GHz-3.7GHz CBRS band.
   </figcaption>
@@ -23,7 +23,7 @@ author_profile: true
 <figure style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: auto;">
   <img src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/SAS-SystemModel.png" 
        alt="SAS system model" 
-       style="width:850px; height:auto; display: block; margin: auto;" />
+       style="width:750px; height:auto; display: block; margin: auto;" />
   <figcaption style="caption-side: bottom; text-align: center; margin-top: 10px;">
     Spectrum Access System (SAS) system model. Each SAS administrator owns and manages their own customers and services.
   </figcaption>
@@ -37,7 +37,7 @@ author_profile: true
 <figure style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: auto;">
   <img src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/TriSAS-WorkFlow.png" 
        alt="TriSAS workflow" 
-       style="width:1050px; height:auto; display: block; margin: auto;" />
+       style="width:1000px; height:auto; display: block; margin: auto;" />
   <figcaption style="caption-side: bottom; text-align: center; margin-top: 10px;">
     TriSAS workflow. The proposed mechanism involves two phases including the input synchronization phase and the decision finalization phase.
   </figcaption>
