@@ -12,7 +12,7 @@ author_profile: true
 - However, recent optimization-based model inversion attacks show that a curious server can reverse the shared model updates between FL participants back to local training samples, challenging this privacy guarantee. 
 - To address this, a multi-party computation mechanism named *secure aggregation* is proposed, which hides individual model updates behind cryptographic masks but keeps the aggregated results identical to pre-masked values to keep system utility. This prevents the optimization-based attackers from obtaining individual model updates, effectively defending these attacks. 
 
-<figure style="text-align: center; margin: auto;">
+<figure style="align: center; margin: auto;">
   <img src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/ScaleMIA-ThreatModel.png" alt="Threat model" style="width:350px;height:auto; display: block; margin: auto;">
   <figcaption style="caption-side: bottom; text-align: center;">
     Threat model for model inversion attacks in secure federated learning systems.
