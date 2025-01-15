@@ -53,7 +53,7 @@ author_profile: true
 </figure>
 
 ## Research Work 2: Reconstructing Multi-modal Data in Medical Federated Learning
-- We propose MedLeak, a novel and powerful MIA that is capable of recovering high-quality medical samples efficiently, even when state-of-the-art cryptography-based defense mechanisms such as secure aggregation are employed.
+- In this research, we propose MedLeak, a novel and powerful MIA that is capable of recovering high-quality medical samples efficiently, even when state-of-the-art cryptography-based defense mechanisms such as secure aggregation are employed.
 - MedLeak can target both medical image and text data, demonstrating its broad applicability in the medical domain.
 - MedLeak designs two modules including the "Zero Gradient" module for all clients except the victim and the "Linear Leakage" module for the target victim. The first module can retrieve individual model updates from the aggregated results, and the second module can efficiently reverse the individual model updates back to local samples.
 - MedLeak can find the ownership of the recovered images.
@@ -68,7 +68,7 @@ author_profile: true
 </figure>
 
 ## Results
-- We implement MedLeak on medical image and text datasets, and the proposed privacy attack is highly effective on both types of data samples.
+- We implement MedLeak on medical image and text datasets, and the proposed privacy attack is highly effective on both types of datasets.
 
 <figure style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: auto;">
   <img src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/MedLeak-RecoverSamples.png" 
