@@ -15,7 +15,7 @@ author_profile: true
 
 <figure style="text-align: center; margin: auto;">
   <img align="center" src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/ScaleMIA-ThreatModel.png" alt="Threat model" style="width:350px;height:auto; display: block; margin: auto;"/>
-  <figcaption style='display: table-caption; caption-side: bottom;'>Threat model for the model inversion attacks.</figcaption>
+  <figcaption style="caption-side: bottom; text-align: center;">Threat model for the model inversion attacks.</figcaption>
 </figure>
 
 ## Research Work 1: A More Scalable and Efficient Model Inversion Attack
@@ -25,7 +25,7 @@ author_profile: true
 
 <figure style="text-align: center; margin: auto;">
 <img src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/Attackflow.png" alt="Attack flow" height="450"/>
-<figcaption style='display: table-caption; caption-side: bottom;'>Scale-MIA is a two-phase attack. The first phase is performed locally to produce essential information to conduct the second phase. The second is the actual attack phase, during which the attacker interacts with the clients and reconstructs their local training samples.</figcaption>
+<figcaption style="caption-side: bottom; text-align: center;">Scale-MIA is a two-phase attack. The first phase is performed locally to produce essential information to conduct the second phase. The second is the actual attack phase, during which the attacker interacts with the clients and reconstructs their local training samples.</figcaption>
 </figure>
 
 ## Results
@@ -35,11 +35,11 @@ author_profile: true
   <img src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/celeba_input_batch.png" alt="Image 1" style="width:450px; height:auto;"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/celeba_recovered_batch.png" alt="Image 2" style="width:450px; height:auto;"/>
-  <figcaption style='display: table-caption; caption-side: bottom;'>The comparison between the original images and the reconstructed images with batch size 64 on CelebA.</figcaption>
+  <figcaption style="caption-side: bottom; text-align: center;">The comparison between the original images and the reconstructed images with batch size 64 on CelebA.</figcaption>
 </div>
 
 ## Research Work 2: Reconstructing Multi-modal Data in Medical Federated Learning
-- 
+- asasa
 
 
 ## Reference
