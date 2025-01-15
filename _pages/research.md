@@ -9,4 +9,6 @@ My research interests focus on the intersection area between **computer security
 
 [Model Inversion Attacks against Secure Federated Learning Systems](https://shishishi123.github.io/research/FL-Privacy/)
 
+[Building Trustworthy and Verifiable Spectrum Sharing Systems.](https://shishishi123.github.io/research/SAS-Security/)
+
 [Protecting Network Timing from Byzantine Attacks within Time-Sensitive IoT Networks](https://shishishi123.github.io/research/IoT-Security/)
