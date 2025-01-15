@@ -14,7 +14,9 @@ author_profile: true
 
 <figure>
 <img src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/ScaleMIA-ThreatModel.png" alt="Threat model" style="width:350px;height:auto;">
-<figcaption style='display: caption-side: bottom;'>Threat model for model inversion attacks in secure federated learning systems.</figcaption>
+<figcaption style='caption-side: bottom;'>
+  Threat model for model inversion attacks in secure federated learning systems.
+</figcaption>
 </figure>
 
 ## Our Mechanism
