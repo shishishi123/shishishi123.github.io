@@ -14,10 +14,13 @@ author_profile: true
 
 <figure>
 <img src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/ScaleMIA-ThreatModel.png" alt="Threat model" style="width:350px;height:auto;">
+<br />
 <figcaption style='caption-side: bottom;'>
   Threat model for model inversion attacks in secure federated learning systems.
 </figcaption>
 </figure>
+
+
 
 ## Our Mechanism
 - In this research, we propose a more powerful model inversion attack named Scale-MIA that not only breaks the secure aggregation, but also significantly improves the attack efficiency and scalability.
