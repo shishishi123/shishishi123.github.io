@@ -42,10 +42,10 @@ author_profile: true
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <img src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/celeba_input_batch.png" 
          alt="Image 1" 
-         style="width:350px; height:auto;" />
+         style="width:380px; height:auto;" />
     <img src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/celeba_recovered_batch.png" 
          alt="Image 2" 
-         style="width:350px; height:auto;" />
+         style="width:380px; height:auto;" />
   </div>
   <figcaption style="caption-side: bottom; text-align: center; margin-top: 10px;">
     The comparison between the original images and the reconstructed images with batch size 64 on CelebA.
