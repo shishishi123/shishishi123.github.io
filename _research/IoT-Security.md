@@ -36,5 +36,20 @@ author_profile: true
 - We implement our defense mechanism on our PTP harware testbed and the results show that our proposed defense can effectively defense various timing attacks.
 - Our mechanism is compatible with the current indistrial PTP standard.
 
+<figure style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: auto;">
+  <img src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/Robotic-Attack-Results.png" 
+       alt="Robotic Attack Results" 
+       style="width:550px; height:auto; display: block; margin: auto;" />
+  <figcaption style="caption-side: bottom; text-align: center; margin-top: 10px;">
+    The consequence of de-synchronization attack on Turtlebot3.
+  </figcaption>
+</figure>
+
 ## Reference
+
+
+
+
+
+
 
