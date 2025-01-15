@@ -7,17 +7,20 @@ author_profile: true
 
 ## Model Inversion Attacks against Secure Federated Learning Systems
 
-## Research Background
+## Research Problem
 - Federated learning (FL) is a distributed learning paradigm that enables its participants to collaboratively train machine learning models without sharing local datasets. In this context, it is considered as a *privacy-preserving* paradigm. 
 - However, recent optimization-based model inversion attacks show that a curious server can reverse the shared model updates between FL participants back to local training samples, challenging this privacy guarantee. 
-- To address this, a multi-party computation mechanism named *secure aggregation* is proposed, which hides individual model updates behind cryptographic masks but keeps the aggregated results identical to pre-masked values to keep system utility. This prevents the optimization-based attackers from obtaining individual model updates, effectively defending these attacks. 
+- To address this, a multi-party computation mechanism named *secure aggregation* is proposed, which hides individual model updates behind cryptographic masks but keeps the aggregated results identical to pre-masked values to keep system utility. This prevents the optimization-based attackers from obtaining individual model updates, effectively defending these attacks.
 
-<figure style="align: center; margin: auto;">
-  <img src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/ScaleMIA-ThreatModel.png" alt="Threat model" style="width:350px;height:auto; display: block; margin: auto;">
-  <figcaption style="caption-side: bottom; text-align: center;">
-    Threat model for model inversion attacks in secure federated learning systems.
-  </figcaption>
+<figure style="text-align: center; margin: auto;">
+  <img src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/ScaleMIA-ThreatModel.png" align="center" alt="Threat model" style="width:350px;height:auto; display: block; margin: auto;">
 </figure>
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/ScaleMIA-ThreatModel.png" alt="Image 1" style="width:350px; height:auto;">
+  <img src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/ScaleMIA-ThreatModel.png" alt="Image 2" style="width:350px; height:auto;">
+</div>
+
 
 ## Our Mechanism
 - In this research, we propose a more powerful model inversion attack named Scale-MIA that not only breaks the secure aggregation, but also significantly improves the attack efficiency and scalability.
