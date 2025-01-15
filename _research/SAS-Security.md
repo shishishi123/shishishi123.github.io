@@ -25,7 +25,7 @@ author_profile: true
        alt="SAS system model" 
        style="width:850px; height:auto; display: block; margin: auto;" />
   <figcaption style="caption-side: bottom; text-align: center; margin-top: 10px;">
-    Spectrum Access System (SAS) system model. Each SAS administrator own and manage their own customers and services.
+    Spectrum Access System (SAS) system model. Each SAS administrator owns and manages their own customers and services.
   </figcaption>
 </figure>
 
