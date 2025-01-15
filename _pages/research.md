@@ -13,4 +13,4 @@ My research interests focus on the intersection area between **computer security
 
 [Protecting Network Timing from Byzantine Attacks within Time-Sensitive IoT Networks](https://shishishi123.github.io/research/IoT-Security/)
 
-Except from these works, I also have broad research interests in other network and information security problems such as Blockchain, autonomous vehicle's security, model poisoning attacks in federated learning, and intrusion detection systems. 
+Except from these works, I also have broad research interests in other network and information security problems such as Blockchain, autonomous vehicle's security, FL model poisoning attacks, model fingerprinting, and intrusion detection systems. 
