@@ -34,6 +34,15 @@ author_profile: true
 - We decompose the coordination problem into two phases including input synchronization and decision finialization. The first phase ensures all SAS share the same input set. The second phase consists of three subphases including generating, voting, and finalizing, in which all SAS produce their own spectrum proposals locally, and then vote and finalize one with the best evaluation score.
 - Our mechanism ensures that all honest SAS finalize the same spectrum proposal when malicious nodes are less than one-third of the total population.
 
+<figure style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: auto;">
+  <img src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/TriSAS-WorkFlow.png" 
+       alt="TriSAS workflow" 
+       style="width:1050px; height:auto; display: block; margin: auto;" />
+  <figcaption style="caption-side: bottom; text-align: center; margin-top: 10px;">
+    TriSAS workflow. The proposed mechanism involves two phases including the input synchronization phase and the decision finalization phase.
+  </figcaption>
+</figure>
+
 ## Results
 - We implement our mechanism on a distributed network across the U.S. continent and the results show that our proposed system achieves high throughput and low latency.
 
