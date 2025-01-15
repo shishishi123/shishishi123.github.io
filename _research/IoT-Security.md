@@ -19,7 +19,6 @@ author_profile: true
 </figure>
 
 - In this research, we first propose a powerful insider time shifting attack launched by a malicious PTP client that is able to gradually shift the system time of an arbitrarily chosen victim node, even when the network is protected by the existing authentication mechanisms.
-
 <figure style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: auto;">
   <img src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/Attack-Results.png" 
        alt="Attack Results" 
