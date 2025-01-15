@@ -44,8 +44,8 @@ author_profile: true
   </figcaption>
 </figure>
 
-- We implement our defense mechanism on our PTP harware testbed and the results show that our proposed defense can effectively defense various timing attacks.
-- Our mechanism is compatible with the current indistrial PTP standard.
+- We implement our defense mechanism on our PTP hardware testbed and the results show that our proposed defense can effectively defend against various timing attacks.
+- Our mechanism is compatible with the current industrial PTP standard.
 
 <figure style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: auto;">
   <img src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/Defense-Performance.png" 
