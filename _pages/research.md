@@ -60,11 +60,29 @@ author_profile: true
 - MedLeak designs two modules including the "Zero Gradient" module for all clients except the victim and the "Linear Leakage" module for the target victim. The first module can retrieve individual model updates from the aggregated results, and the second module can efficiently reverse the individual model updates back to local samples.
 - MedLeak can find the ownership of the recovered images.
 
-
-
+<figure style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: auto;">
+  <img src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/MedLeak-Attackflow.png" 
+       alt="Attack flow" 
+       style="height: 400px; display: block; margin: auto;" />
+  <figcaption style="caption-side: bottom; text-align: center; margin-top: 10px;">
+    MedLeak attack flow. MedLeak is a two-phase attack. In the first preparation phase, the attacker generates the adversarial global model. In the second reconstruction phase, the attacker sends the adversarial models to the clients and recovers the local samples when it receives their feedback. MedLeak can reconstruct both image and non-image data and this figure demonstrates the reconstruction of the medical radiology images.
+  </figcaption>
+</figure>
 
 ## Results
+- We implement MedLeak on medical image and text datasets, and the proposed privacy attack is highly effective on both types of data samples.
+
+<figure style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: auto;">
+  <img src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/MedLeak-RecoverSamples.png" 
+       alt="Attack flow" 
+       style="height: 850px; display: block; margin: auto;" />
+  <figcaption style="caption-side: bottom; text-align: center; margin-top: 10px;">
+    Recovered examples from the COVIDx CXR-4 dataset, Kaggle Brain Tumor MRI dataset, and MedAbstract dataset. The original images are on the left and the recovered ones are on the right. The text samples are truncated due to space limitations. Recovery failure samples are marked in red rectangles.
+  </figcaption>
+</figure>
 
 ## Reference
+- **Shanghao Shi**, Ning Wang, Yang Xiao, Chaoyu Zhang, Yi Shi, Y. Thomas Hou, and Wenjing Lou. "Scale-MIA: A Scalable Model Inversion Attack against Secure Federated Learning via Latent Space Reconstruction". In Network and Distributed System Security Symposium 2025 (**NDSS 25**). [[PDF]](https://github.com/shishishi123/shishishi123.github.io/blob/master/files/scale-mia.pdf)
+- **Shanghao Shi**, Md Shahedul Haque, Abhijeet Parida, Marius Linguraru, Y. Thomas Hou, Syed Anwar, and Wenjing Lou. "Harvesting Private Medical Images in Federated Learning Systems with Crafted Models". In the arXiv preprint arXiv: 2407.09972, 2024. [[PDF]](https://arxiv.org/pdf/2407.09972)
 
 
