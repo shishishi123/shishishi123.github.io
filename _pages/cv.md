@@ -19,6 +19,8 @@ redirect_from:
 - Teaching Assistant for CS 1064 -- Intro to Python, Virginia Tech, 2019
 
 ## Professional Service
+- Conference Organizer
+  * ACM WiseML 2025 Web Chair
 - Conference Sub-Reviewer
   * IEEE S&P 2022, 2023, 2024, 2025
   * NDSS 2025
