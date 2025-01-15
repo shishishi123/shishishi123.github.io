@@ -40,19 +40,25 @@ author_profile: true
 ## Results
 - We implement our attack on popular machine learning models and datasets and the results show that our attack can reconstruct hundreds of local training samples simultaneously within a few seconds.
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/celeba_input_batch.png" alt="Image 1" style="width:450px; height:auto;"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/celeba_recovered_batch.png" alt="Image 2" style="width:450px; height:auto;"/>
-  <br>
-  <figcaption style="caption-side: bottom; text-align: center;">The comparison between the original images and the reconstructed images with batch size 64 on CelebA.</figcaption>
-</div>
+<figure style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: auto;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/celeba_input_batch.png" 
+         alt="Image 1" 
+         style="width:450px; height:auto;" />
+    <img src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/celeba_recovered_batch.png" 
+         alt="Image 2" 
+         style="width:450px; height:auto;" />
+  </div>
+  <figcaption style="caption-side: bottom; text-align: center; margin-top: 10px;">
+    The comparison between the original images and the reconstructed images with batch size 64 on CelebA.
+  </figcaption>
+</figure>
 
 ## Research Work 2: Reconstructing Multi-modal Data in Medical Federated Learning
 - We propose MedLeak, a novel and powerful MIA that is capable of recovering high-quality medical samples efficiently, even when state-of-the-art cryptography-based defense mechanisms such as secure aggregation are employed.
 - MedLeak can target both medical image and text data, demonstrating its broad applicability in the medical domain.
 - MedLeak designs two modules including the "Zero Gradient" module for all clients except the victim and the "Linear Leakage" module for the target victim. The first module can retrieve individual model updates from the aggregated results, and the second module can efficiently reverse the individual model updates back to local samples.
-- MedLeak can link the recovered images to their owners.
+- MedLeak can find the ownership of the recovered images.
 
 
 
