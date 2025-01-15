@@ -23,7 +23,7 @@ author_profile: true
 <figure style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: auto;">
   <img src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/SAS-SystemModel.png" 
        alt="SAS system model" 
-       style="width:750px; height:auto; display: block; margin: auto;" />
+       style="width:800px; height:auto; display: block; margin: auto;" />
   <figcaption style="caption-side: bottom; text-align: center; margin-top: 10px;">
     Spectrum Access System (SAS) system model. Each SAS administrator owns and manages their own customers and services.
   </figcaption>
