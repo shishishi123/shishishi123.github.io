@@ -1,5 +1,5 @@
 ---
-title: "Protecting Network Timing from Byzantine Attacks within time-sensitive IoT Networks"
+title: "Protecting Network Timing from Byzantine Attacks within Time-Sensitive IoT Networks"
 collection: research
 permalink: /research/IoT-Security/
 author_profile: true
