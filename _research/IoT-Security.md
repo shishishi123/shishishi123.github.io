@@ -8,7 +8,6 @@ author_profile: true
 ## Research Problem
 - Ensuring *network time synchronization* is super important for time-sensitive IoT networks such as 5G and automotive Ethernet because they have very stringent time synchronization requirements and failing to meet them (even for a millisecond-level desynchronization) can cause significant system performance degradation. 
 - Technically, *precision time protocol (PTP)* is the widely-used network timing protocol that ensures time synchronization for many distributed networks.
-- In this research, we first propose a powerful insider time shifting attack launched by a malicious PTP client that is able to gradually shift the system time of an arbitrarily chosen victim node, even when the network is protected by the existing authentication mechanisms.
 
 <figure style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: auto;">
   <img src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/PTP-Testbed.png" 
@@ -19,6 +18,8 @@ author_profile: true
   </figcaption>
 </figure>
 
+- In this research, we first propose a powerful insider time shifting attack launched by a malicious PTP client that is able to gradually shift the system time of an arbitrarily chosen victim node, even when the network is protected by the existing authentication mechanisms.
+- 
 <figure style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: auto;">
   <img src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/Attack-Results.png" 
        alt="Attack Results" 
