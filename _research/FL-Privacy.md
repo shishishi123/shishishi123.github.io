@@ -28,7 +28,7 @@ author_profile: true
 <figure style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: auto;">
   <img src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/Attackflow.png" 
        alt="Attack flow" 
-       style="height: 450px; display: block; margin: auto;" />
+       style="height: 350px; display: block; margin: auto;" />
   <figcaption style="caption-side: bottom; text-align: center; margin-top: 10px;">
     Scale-MIA is a two-phase attack. The first phase is performed locally to produce essential information to conduct the second phase. 
     The second is the actual attack phase, during which the attacker interacts with the clients and reconstructs their local training samples.
@@ -61,7 +61,7 @@ author_profile: true
 <figure style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: auto;">
   <img src="https://raw.githubusercontent.com/shishishi123/shishishi123.github.io/refs/heads/master/files/figures/MedLeak-Attackflow.png" 
        alt="Attack flow" 
-       style="height: 400px; display: block; margin: auto;" />
+       style="height: 350px; display: block; margin: auto;" />
   <figcaption style="caption-side: bottom; text-align: center; margin-top: 10px;">
     MedLeak attack flow. MedLeak is a two-phase attack. In the first preparation phase, the attacker generates the adversarial global model. In the second reconstruction phase, the attacker sends the adversarial models to the clients and recovers the local samples when it receives their feedback. MedLeak can reconstruct both image and non-image data and this figure demonstrates the reconstruction of the medical radiology images.
   </figcaption>
