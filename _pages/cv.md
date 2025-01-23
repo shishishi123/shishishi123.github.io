@@ -34,4 +34,5 @@ redirect_from:
   * IEEE Transactions on Information Forensics and Security
   * IEEE Transactions on Cognitive Communications and Networking
   * IEEE/ACM Transactions on Networking
+  * ACM Transactions on Cyber-Physical Systems
 
