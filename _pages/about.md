@@ -15,7 +15,7 @@ I am a PhD candidate in the [Department of Computer Science](https://cs.vt.edu/)
 * Ph.D. in Computer Science, Virginia Tech, 2019-now
 
 ## News
-- Our paper 'StarCast: A Secure and Spectrum-Efficient Group Communication Scheme for LEO Satellite Networks' has been accepted by the IEEE International Symposium on Dynamic Spectrum Access Networks 2025 (**DySPAN 2025**). (Feb. 2024)
+- Our paper 'StarCast: A Secure and Spectrum-Efficient Group Communication Scheme for LEO Satellite Networks' has been accepted by the IEEE International Symposium on Dynamic Spectrum Access Networks 2025 (**DySPAN 2025**). (Feb. 2025)
 - Our paper 'Scale-MIA: A Scalable Model Inversion Attack against Secure Federated Learning via Latent Space Reconstruction' has been accepted by the Network and Distributed System Security Symposium (**NDSS 2025**). (Nov. 2024)
 - Our paper 'ProFLingo: A Fingerprinting-based Intellectual Property Protection Scheme for Large Language Models' won the **best paper award** at the IEEE Conference on Communications and Network Security 2024 (**CNS 2024**). (Aug. 2024)
 - Our paper 'ProFLingo: A Fingerprinting-based Intellectual Property Protection Scheme for Large Language Models' has been accepted by the IEEE Conference on Communications and Network Security 2024 (**CNS 2024**). (Aug. 2024)
