@@ -15,9 +15,10 @@ I am a PhD candidate in the [Department of Computer Science](https://cs.vt.edu/)
 * Ph.D. in Computer Science, Virginia Tech, 2019-now
 
 ## News
+- Our paper 'MedLeak: Harvesting Multimodal Medical Data in Secure Federated Learning with Crafted Models' has been accepted by the IEEE/ACM Conference on Connected Health: Applications, Systems, and Engineering Technologies 2025 (**CHASE 2025**). (Feb. 2025)
 - Our paper 'StarCast: A Secure and Spectrum-Efficient Group Communication Scheme for LEO Satellite Networks' has been accepted by the IEEE International Symposium on Dynamic Spectrum Access Networks 2025 (**DySPAN 2025**). (Feb. 2025)
-- Our paper 'Scale-MIA: A Scalable Model Inversion Attack against Secure Federated Learning via Latent Space Reconstruction' has been accepted by the Network and Distributed System Security Symposium (**NDSS 2025**). (Nov. 2024)
-- Our paper 'ProFLingo: A Fingerprinting-based Intellectual Property Protection Scheme for Large Language Models' won the **best paper award** at the IEEE Conference on Communications and Network Security 2024 (**CNS 2024**). (Aug. 2024)
+- Our paper 'Scale-MIA: A Scalable Model Inversion Attack against Secure Federated Learning via Latent Space Reconstruction' has been accepted by the Network and Distributed System Security Symposium 2025 (**NDSS 2025**). (Nov. 2024)
+- Our paper 'ProFLingo: A Fingerprinting-based Intellectual Property Protection Scheme for Large Language Models' won the **Best Paper Award** at the IEEE Conference on Communications and Network Security 2024 (**CNS 2024**). (Aug. 2024)
 - Our paper 'ProFLingo: A Fingerprinting-based Intellectual Property Protection Scheme for Large Language Models' has been accepted by the IEEE Conference on Communications and Network Security 2024 (**CNS 2024**). (Aug. 2024)
 - Our paper 'Hermes: Boosting the Performance of Machine-Learning-Based Intrusion Detection System through Geometric Feature Learning' has been accepted by the 25th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (**MobiHoc 2024**). (Aug. 2024)
 - Our paper 'Pri-Share: Enabling Inter-SAS Privacy Protection via Secure Multi-Party Spectrum Allocation' has been accepted by the IEEE International Symposium on Dynamic Spectrum Access Networks 2024 (**DySPAN 2024**). (Feb. 2024)
