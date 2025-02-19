@@ -4,10 +4,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+## 2025
+- **Shanghao Shi**, Md Shahedul Haque, Abhijeet Parida, Marius Linguraru, Chaoyu Zhang, Y. Thomas Hou, Syed Anwar, and Wenjing Lou. "MedLeak: Harvesting Multimodal Medical Data in Secure Federated Learning with Crafted Models". In the IEEE/ACM Conference on Connected Health: Applications, Systems, and Engineering Technologies 2025 (**CHASE 25**), June 24-26, 2025, Manhattan, New York City, USA.
+
 ## 2024
-- **Shanghao Shi**, Ning Wang, Yang Xiao, Chaoyu Zhang, Yi Shi, Y. Thomas Hou, and Wenjing Lou. "Scale-MIA: A Scalable Model Inversion Attack against Secure Federated Learning via Latent Space Reconstruction". In Network and Distributed System Security Symposium 2025 (**NDSS 25**). [[PDF]](https://shishishi123.github.io/files/scale-mia.pdf)
+- **Shanghao Shi**, Ning Wang, Yang Xiao, Chaoyu Zhang, Yi Shi, Y. Thomas Hou, and Wenjing Lou. "Scale-MIA: A Scalable Model Inversion Attack against Secure Federated Learning via Latent Space Reconstruction". In Network and Distributed System Security Symposium 2025 (**NDSS 25**), 24-28 February 2025, San Diego, CA, USA. [[PDF]](https://shishishi123.github.io/files/scale-mia.pdf)
 - Chaoyu Zhang, **Shanghao Shi**, Ning Wang, Xiangxiang Xu, Shaoyu Li, Lizhong Zheng, Randy Marchany, Mark Gardner, Y. Thomas Hou, Wenjing Lou. "Hermes: Boosting the Performance of Machine-Learning-Based Intrusion Detection System through Geometric Feature Learning". In Proceedings of the 25th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (**MobiHoc 24**). Association for Computing Machinery, New York, NY, USA, 251–260. [[PDF]](http://shishishi123.github.io/files/hermes.pdf)
-- **Shanghao Shi**, Md Shahedul Haque, Abhijeet Parida, Marius Linguraru, Y. Thomas Hou, Syed Anwar, and Wenjing Lou. "Harvesting Private Medical Images in Federated Learning Systems with Crafted Models". In the arXiv preprint arXiv: 2407.09972, 2024. [[PDF]](https://arxiv.org/pdf/2407.09972)
 - Heng Jin, Chaoyu Zhang, **Shanghao Shi**, Wenjing Lou, and Y. Thomas Hou. "ProFLingo: A Fingerprinting-based Intellectual Property Protection Scheme for Large Language Models". In 2024 IEEE Conference on Communications and Network Security (**CNS 24**), pp. 1-9. IEEE, 2024. [[PDF]](https://arxiv.org/pdf/2405.02466) (**Best Paper Award**)
 - Ning Wang, **Shanghao Shi**, Yang Xiao, Yimin Chen, Y. Thomas Hou, and Wenjing Lou. "BoBa: Boosting Backdoor Detection through Data Distribution Inference in Federated Learning". In the arXiv preprint arXiv: 2407.09658, 2024. [[PDF]](https://arxiv.org/pdf/2407.09658)
 - Hexuan Yu, **Shanghao Shi**, Yi Shi, Eric Burger, Y. Thomas Hou, and Wenjing Lou. "Pri-Share: Enabling Inter-SAS Privacy Protection via Secure Multi-Party Spectrum Allocation." In 2024 IEEE International Symposium on Dynamic Spectrum Access Networks (**DySPAN 24**), Washington, DC, USA, 2024, pp. 347-356. [[PDF]](http://shishishi123.github.io/files/sas-privacy.pdf)
