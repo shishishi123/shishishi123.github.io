@@ -1,7 +1,7 @@
 ---
 title: "Scale-MIA: A Scalable Model Inversion Attack against Secure Federated Learning via Latent Space Reconstruction"
 collection: talks
-type: "Conference proceedings talk"
+type: "Conference proceeding talk"
 permalink: /talks/scale-mia
 venue: "NDSS 2025"
 date: 2025-02-27
