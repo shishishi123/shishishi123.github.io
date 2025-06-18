@@ -12,7 +12,7 @@ I am a PhD candidate in the [Department of Computer Science](https://cs.vt.edu/)
 
 ## Education
 * B.S. in Communications Engineering, Beijing University of Posts and Telecommunications, 2015-2019
-* Ph.D. in Computer Science, Virginia Tech, 2019-now
+* Ph.D. in Computer Science, Virginia Tech, 2019-2025
 
 ## News
 - Our paper 'MedLeak: Harvesting Multimodal Medical Data in Secure Federated Learning with Crafted Models' has been accepted by the IEEE/ACM Conference on Connected Health: Applications, Systems, and Engineering Technologies 2025 (**CHASE 2025**). (Feb. 2025)
