@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## 2025
-- **Shanghao Shi**, Md Shahedul Haque, Abhijeet Parida, Marius Linguraru, Chaoyu Zhang, Y. Thomas Hou, Syed Anwar, and Wenjing Lou. "MedLeak: Harvesting Multimodal Medical Data in Secure Federated Learning with Crafted Models". In IEEE/ACM Conference on Connected Health: Applications, Systems, and Engineering Technologies 2025 (**CHASE 25**), June 24-26, 2025, Manhattan, New York City, USA.
+- **Shanghao Shi**, Md Shahedul Haque, Abhijeet Parida, Chaoyu Zhang, Marius Linguraru, Y. Thomas Hou, Syed Anwar, and Wenjing Lou. "MedLeak: Harvesting Multimodal Medical Data in Secure Federated Learning with Crafted Models". In IEEE/ACM Conference on Connected Health: Applications, Systems, and Engineering Technologies 2025 (**CHASE 25**), June 24-26, 2025, Manhattan, New York City, USA.
 - Ning Wang, **Shanghao Shi**, Yimin Chen, Wenjing Lou and Y. Thomas Hou, "FeCo: Boosting Intrusion Detection Capability in IoT Networks via Contrastive Learning". In IEEE Transactions on Dependable and Secure Computing (**TDSC 25**), doi: 10.1109/TDSC.2025.3544106. 
 - Chaoyu Zhang, Hexuan Yu, **Shanghao Shi**, Shaoyu Li, Yi Shi, Eric Burger, Y. Thomas Hou, Wenjing Lou. "StarCast: Securing Multicast Communications in LEO Satellite Networks," In 2025 IEEE International Symposium on Dynamic Spectrum Access Networks (**DySPAN 25**), May 12-15, 2025, London, United Kingdom.
 
