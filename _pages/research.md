@@ -15,4 +15,4 @@ Here are a few selected projects during my PhD study.
 
 [Protecting Network Timing from Byzantine Attacks within Time-Sensitive IoT Networks](https://shishishi123.github.io/research/IoT-Security/)
 
-Aside from these works, I am also interested in other network and information security topics such as Blockchain, autonomous vehicle security, FL model poisoning attacks, model fingerprinting, and intrusion detection systems. 
+Beyond these areas, I am also interested in a range of network and information security topics such as Blockchain, autonomous vehicle security, FL model poisoning attacks, model fingerprinting, and intrusion detection systems. 
