@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 ## Research Problem
-- Federated learning (FL) is a distributed learning paradigm that enables its participants to collaboratively train machine learning models without sharing local datasets. In this context, it is considered as a *privacy-preserving* paradigm. 
+- Federated learning (FL) is a distributed learning paradigm that enables its participants to collaboratively train machine learning models without sharing local datasets. In this context, it is considered a *privacy-preserving* paradigm. 
 - However, recent optimization-based model inversion attacks show that a curious server can reverse the shared model updates between FL participants back to local training samples, challenging this privacy guarantee. 
-- To address this, a multi-party computation mechanism named *secure aggregation* is proposed, which hides individual model updates behind cryptographic masks but keeps the aggregated results identical to pre-masked values to keep system utility. This prevents the optimization-based attackers from obtaining individual model updates, effectively defending these attacks.
+- To address this, a multi-party computation mechanism named *secure aggregation* is proposed, which hides individual model updates behind cryptographic masks but keeps the aggregated results identical to pre-masked values to keep system utility. This prevents the optimization-based attackers from obtaining individual model updates, effectively defending against these attacks.
 - In this research, we investigate whether the parameter server can still reconstruct local client samples from model updates when the secure aggregation protocol is in place.
 
 <figure style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: auto;">
@@ -21,7 +21,7 @@ author_profile: true
 </figure>
 
 ## Research Work 1: A More Scalable and Efficient Model Inversion Attack
-- In this research, we propose a more powerful model inversion attack named Scale-MIA that not only breaks the secure aggregation, but also significantly improves the attack efficiency and scalability.
+- We propose a more powerful model inversion attack named Scale-MIA that not only breaks the secure aggregation but also significantly improves the attack efficiency and scalability.
 - Our attack identifies the latent space as the key layer to breach the privacy and decompose the complex reconstruction problem into two steps including first reversing the aggregated model updates back to latent space representations (LSRs) via an attack module named linear leakage, and then reversing the LSRs back to local training samples via a fine-tuned decoder.
 - Our attack only involves closed-form calculations, and thus is much more efficient than existing works. 
 
@@ -81,5 +81,5 @@ author_profile: true
 
 ## Reference
 - **Shanghao Shi**, Ning Wang, Yang Xiao, Chaoyu Zhang, Yi Shi, Y. Thomas Hou, and Wenjing Lou. "Scale-MIA: A Scalable Model Inversion Attack against Secure Federated Learning via Latent Space Reconstruction". In Network and Distributed System Security Symposium 2025 (**NDSS 25**). [[PDF]](https://shishishi123.github.io/files/scale-mia.pdf)
-- **Shanghao Shi**, Md Shahedul Haque, Abhijeet Parida, Marius Linguraru, Y. Thomas Hou, Syed Anwar, and Wenjing Lou. "Harvesting Private Medical Images in Federated Learning Systems with Crafted Models". In the arXiv preprint arXiv: 2407.09972, 2024. [[PDF]](https://arxiv.org/pdf/2407.09972)
+- **Shanghao Shi**, Md Shahedul Haque, Abhijeet Parida, Marius Linguraru, Y. Thomas Hou, Syed Anwar, and Wenjing Lou. "MedLeak: Multimodal Medical Data Leakage in Secure Federated Learning with Crafted Models". In the ACM/IEEE International Conference on Connected Health: Applications, Systems and Engineering Technologies (**CHASE 25**) [[PDF]](https://arxiv.org/pdf/2407.09972)
 
