@@ -7,7 +7,7 @@ author_profile: true
 
 My research lies at the intersection between **computer security, networking, and AI**. In today’s data-driven and universally connected cyber landscape, the three critical research areas are inseparable, each continuously advancing and shaping the others. My work focuses on uncovering previously unexplored vulnerabilities in state-of-the-art networking and AI systems from a red-team perspective, and subsequently proposing effective defense mechanisms to strengthen their security and resilience.
 
-Here are a few selected projects during my PhD study.
+Here are a few selected projects from my PhD research.
 
 [**Model Inversion Attacks against Secure Federated Learning Systems**](https://shishishi123.github.io/research/FL-Privacy/)
 
