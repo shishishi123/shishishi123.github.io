@@ -81,5 +81,5 @@ author_profile: true
 
 ## Reference
 - **Shanghao Shi**, Ning Wang, Yang Xiao, Chaoyu Zhang, Yi Shi, Y. Thomas Hou, and Wenjing Lou. "Scale-MIA: A Scalable Model Inversion Attack against Secure Federated Learning via Latent Space Reconstruction". In Network and Distributed System Security Symposium 2025 (**NDSS 25**). [[PDF]](https://shishishi123.github.io/files/scale-mia.pdf)
-- **Shanghao Shi**, Md Shahedul Haque, Abhijeet Parida, Marius Linguraru, Y. Thomas Hou, Syed Anwar, and Wenjing Lou. "MedLeak: Multimodal Medical Data Leakage in Secure Federated Learning with Crafted Models". In the ACM/IEEE International Conference on Connected Health: Applications, Systems and Engineering Technologies (**CHASE 25**) [[PDF]](https://arxiv.org/pdf/2407.09972)
+- **Shanghao Shi**, Md Shahedul Haque, Abhijeet Parida, Chaoyu Zhang, Marius Linguraru, Y. Thomas Hou, Syed Anwar, and Wenjing Lou. "MedLeak: Multimodal Medical Data Leakage in Secure Federated Learning with Crafted Models". In the ACM/IEEE International Conference on Connected Health: Applications, Systems and Engineering Technologies (**CHASE 25**) [[PDF]](https://arxiv.org/pdf/2407.09972)
 
