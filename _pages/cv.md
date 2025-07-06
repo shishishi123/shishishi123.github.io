@@ -13,7 +13,9 @@ redirect_from:
 
 ## Awards
 - National Scholarship 2016
-- Bitshare Scholarship 2021, 2023
+- BitShares Fellowship 2021, 2023
+- IEEE/ACM CHASE Student Travel Grant 2025
+- Dennis G. Kafura Graduate Fellowship 2025
 
 ## Teaching
 - Teaching Assistant for CS 1064 -- Intro to Python, Virginia Tech, 2019
@@ -24,9 +26,9 @@ redirect_from:
 - Conference Sub-Reviewer
   * IEEE S&P 2022, 2023, 2024, 2025
   * NDSS 2025
-  * ACM WiSec 2024 
+  * ACM WiSec 2024, 2025 
   * IEEE CNS 2022
-  * ESORICS 2022
+  * ESORICS 2022, 2025
   * ICCCN 2023
 - Journal Reviewer
   * IEEE Internet of Things Journal
