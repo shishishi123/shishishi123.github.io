@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 ## 2025
-- **Shanghao Shi**, Md Shahedul Haque, Abhijeet Parida, Chaoyu Zhang, Marius Linguraru, Y. Thomas Hou, Syed Anwar, and Wenjing Lou. "MedLeak: Harvesting Multimodal Medical Data in Secure Federated Learning with Crafted Models". In IEEE/ACM Conference on Connected Health: Applications, Systems, and Engineering Technologies 2025 (**CHASE 25**), June 24-26, 2025, Manhattan, New York City, USA.
-- Ning Wang, **Shanghao Shi**, Yimin Chen, Wenjing Lou and Y. Thomas Hou, "FeCo: Boosting Intrusion Detection Capability in IoT Networks via Contrastive Learning". In IEEE Transactions on Dependable and Secure Computing (**TDSC 25**), doi: 10.1109/TDSC.2025.3544106. 
-- Chaoyu Zhang, Hexuan Yu, **Shanghao Shi**, Shaoyu Li, Yi Shi, Eric Burger, Y. Thomas Hou, Wenjing Lou. "StarCast: Securing Multicast Communications in LEO Satellite Networks," In 2025 IEEE International Symposium on Dynamic Spectrum Access Networks (**DySPAN 25**), May 12-15, 2025, London, United Kingdom.
+- **Shanghao Shi**, Md Shahedul Haque, Abhijeet Parida, Chaoyu Zhang, Marius Linguraru, Y. Thomas Hou, Syed Anwar, and Wenjing Lou. "MedLeak: Multimodal Medical Data Leakage in Secure Federated Learning with Crafted Models". In IEEE/ACM Conference on Connected Health: Applications, Systems, and Engineering Technologies 2025 (**CHASE 25**), June 24-26, 2025, Manhattan, New York City, USA. [[PDF]](https://arxiv.org/pdf/2407.09972v2)
+- Ning Wang, **Shanghao Shi**, Yimin Chen, Wenjing Lou and Y. Thomas Hou, "FeCo: Boosting Intrusion Detection Capability in IoT Networks via Contrastive Learning". In IEEE Transactions on Dependable and Secure Computing (**TDSC 25**), doi: 10.1109/TDSC.2025.3544106. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10896851)
+- Chaoyu Zhang, Hexuan Yu, **Shanghao Shi**, Shaoyu Li, Yi Shi, Eric Burger, Y. Thomas Hou, Wenjing Lou. "StarCast: Securing Multicast Communications in LEO Satellite Networks," In 2025 IEEE International Symposium on Dynamic Spectrum Access Networks (**DySPAN 25**), May 12-15, 2025, London, United Kingdom. [[PDF]](https://arxiv.org/pdf/2502.07901v1)
 
 ## 2024
 - **Shanghao Shi**, Ning Wang, Yang Xiao, Chaoyu Zhang, Yi Shi, Y. Thomas Hou, and Wenjing Lou. "Scale-MIA: A Scalable Model Inversion Attack against Secure Federated Learning via Latent Space Reconstruction". In Network and Distributed System Security Symposium 2025 (**NDSS 25**), 24-28 February 2025, San Diego, CA, USA. [[PDF]](https://shishishi123.github.io/files/scale-mia.pdf)
