@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the [Department of Computer Science](https://cs.vt.edu/) at Virginia Tech supervised by [Prof. Wenjing Lou](https://www.cnsr.ictas.vt.edu/WJLou.html) and [Prof. Yi Shi](https://sites.google.com/a/vt.edu/yi-shi/home). My research area is **network security and information privacy**. I am particularly interested in the topics related to wireless security, CPS and IoT security, and machine learning security and privacy.
+I will join Washington University in St. Louis as a Postdoc Research Associate. I got my PhD in Computer Science at Virginia Tech, supervised by [Prof. Wenjing Lou](https://www.cnsr.ictas.vt.edu/WJLou.html) and [Prof. Yi Shi](https://sites.google.com/a/vt.edu/yi-shi/home). My research area is **network security and information privacy**. I am particularly interested in the topics related to wireless security, CPS and IoT security, and machine learning security and privacy.
 
 ## Education
 * B.S. in Communications Engineering, Beijing University of Posts and Telecommunications, 2015-2019
