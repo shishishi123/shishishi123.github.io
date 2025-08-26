@@ -15,6 +15,7 @@ I am a Postdoc Research Associate in the Department of Computer Science and Engi
 * Ph.D. in Computer Science, Virginia Tech, 2019-2025
 
 ## News
+- Our paper 'BoBa: Boosting Backdoor Detection through Data Distribution Inference in Federated Learning' has been accepted by the 28th European Conference on Artificial Intelligence (**ECAI 2025**). (July. 2025)
 - Our paper 'MedLeak: Harvesting Multimodal Medical Data in Secure Federated Learning with Crafted Models' has been accepted by the IEEE/ACM Conference on Connected Health: Applications, Systems, and Engineering Technologies 2025 (**CHASE 2025**). (Feb. 2025)
 - Our paper 'FeCo: Boosting Intrusion Detection Capability in IoT Networks via Contrastive Learning' has been accepted by IEEE Transactions on Dependable and Secure Computing (**TDSC 2025**). (Feb. 2025)
 - Our paper 'StarCast: A Secure and Spectrum-Efficient Group Communication Scheme for LEO Satellite Networks' has been accepted by the IEEE International Symposium on Dynamic Spectrum Access Networks 2025 (**DySPAN 2025**). (Feb. 2025)
