@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[[Shanghao's CV in PDF]](https://shishishi123.github.io/files/Shanghao_CV_Academic.pdf)
-
 ## Awards
 - National Scholarship 2016
 - BitShares Fellowship 2021, 2023
@@ -21,15 +19,17 @@ redirect_from:
 - Teaching Assistant for CS 1064 -- Intro to Python, Virginia Tech, 2019
 
 ## Professional Service
-- Conference Organizer
+- Conference Organization
   * ACM WiseML 2025 Web Chair
-- Conference Sub-Reviewer
+  * USENIX VehicleSec 2025 PC Member
+- Conference Reviewer
   * IEEE S&P 2022, 2023, 2024, 2025
   * NDSS 2025
   * ACM WiSec 2024, 2025 
   * IEEE CNS 2022
   * ESORICS 2022, 2025
   * ICCCN 2023
+  * INFOCOM 2025
 - Journal Reviewer
   * IEEE Internet of Things Journal
   * IEEE Transactions on Dependable and Secure Computing
