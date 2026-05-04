@@ -15,6 +15,7 @@ I am a Postdoctoral Research Associate in the Department of Computer Science and
 * Ph.D. in Computer Science, Virginia Tech, 2019-2025
 
 ## News
+- I will serve as a PC member for ACSAC 2026.
 - Two papers accepted by ICML 2026.
 - I will serve as a TPC member for ESORICS 2026.
 - I will serve as a TPC member for INFOCOM 2027.
