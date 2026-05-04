@@ -16,7 +16,9 @@ I am a Postdoctoral Research Associate in the Department of Computer Science and
 
 ## News
 - Two papers accepted by ICML 2026.
-- I will serve as the TPC for INFOCOM 2027.
+- I will serve as a TPC member for ESORICS 2026.
+- I will serve as a TPC member for INFOCOM 2027.
+- I will serve as a TPC member for CNS 2026.
 - One paper accepted by ACL 2026.
 
 <details markdown="1">
