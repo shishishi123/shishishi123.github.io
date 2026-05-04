@@ -15,6 +15,13 @@ I am a Postdoctoral Research Associate in the Department of Computer Science and
 * Ph.D. in Computer Science, Virginia Tech, 2019-2025
 
 ## News
+- Two papers accepted by ICML 2026.
+- I will serve as the TPC for INFOCOM 2027.
+- One paper accepted by ACL 2026.
+
+<details markdown="1">
+<summary><strong>Show older news</strong></summary>
+
 - Our paper 'BoBa: Boosting Backdoor Detection through Data Distribution Inference in Federated Learning' has been accepted by the 28th European Conference on Artificial Intelligence (**ECAI 2025**). (July. 2025)
 - Our paper 'MedLeak: Harvesting Multimodal Medical Data in Secure Federated Learning with Crafted Models' has been accepted by the IEEE/ACM Conference on Connected Health: Applications, Systems, and Engineering Technologies 2025 (**CHASE 2025**). (Feb. 2025)
 - Our paper 'FeCo: Boosting Intrusion Detection Capability in IoT Networks via Contrastive Learning' has been accepted by IEEE Transactions on Dependable and Secure Computing (**TDSC 2025**). (Feb. 2025)
@@ -32,3 +39,5 @@ I am a Postdoctoral Research Associate in the Department of Computer Science and
 - Our paper 'Decentralized spectrum access system: Vision, challenges, and a blockchain solution' has been accepted by IEEE Wireless Communications (**WCM 2022**). (March. 2022)
 - Our paper 'Challenges and new directions in securing spectrum access systems' has been accepted by the IEEE Internet of Things Journal (**IoT-J 2021**). (April. 2021)
 - Our paper 'Session key distribution made practical for CAN and CAN-FD message authentication' has been accepted by the Annual Computer Security Applications Conference (**ACSAC 2020**). (Dec. 2020)
+
+</details>
