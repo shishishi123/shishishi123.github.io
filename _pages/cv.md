@@ -20,8 +20,12 @@ redirect_from:
 
 ## Professional Service
 - Conference Organization
-  * ACM WiseML 2025 Web Chair
-  * USENIX VehicleSec 2025 PC Member
+  * WiseML 2025 Web Chair
+  * VehicleSec 2025 TPC Member
+  * ACSAC 2026 TPC Member
+  * MILCOM 2026 TPC Member
+  * INFOCOM 2027 TPC Member
+  * CNS 2026 TPC Member
 - Conference Reviewer
   * IEEE S&P 2022, 2023, 2024, 2025
   * NDSS 2025
@@ -29,7 +33,7 @@ redirect_from:
   * IEEE CNS 2022
   * ESORICS 2022, 2025
   * ICCCN 2023
-  * INFOCOM 2025
+  * INFOCOM 2025, 2026
 - Journal Reviewer
   * IEEE Internet of Things Journal
   * IEEE Transactions on Dependable and Secure Computing
