@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Postdoctoral Research Associate in the Department of Computer Science and Engineering at Washington University in St. Louis (WashU), working with [Prof. Ning Zhang](https://engineering.washu.edu/faculty/Ning-Zhang.html). I received my Ph.D. in Computer Science from Virginia Tech in 2025, advised by [Prof. Wenjing Lou](https://www.cnsr.ictas.vt.edu/WJLou.html) and [Prof. Yi Shi](https://sites.google.com/a/vt.edu/yi-shi/home). My research focuses on network security and information privacy, particularly machine learning security and privacy, wireless security, and CPS/IoT security.
+I am a postdoctoral research associate in the Department of Computer Science and Engineering at Washington University in St. Louis (WashU), working with [Prof. Ning Zhang](https://engineering.washu.edu/faculty/Ning-Zhang.html). I received my Ph.D. in Computer Science from Virginia Tech in 2025, advised by [Prof. Wenjing Lou](https://www.cnsr.ictas.vt.edu/WJLou.html) and [Prof. Yi Shi](https://sites.google.com/a/vt.edu/yi-shi/home). My research focuses on network security and information privacy, particularly machine learning security and privacy, wireless security, and CPS/IoT security.
 
 ## Education
 * B.S. in Communications Engineering, Beijing University of Posts and Telecommunications, 2015-2019
