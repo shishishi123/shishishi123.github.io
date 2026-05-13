@@ -8,7 +8,7 @@ author_profile: true
 ## 2026
 
 - **Shanghao Shi**, Xiao Wang, Chaoyu Zhang, Hao Li, Wenjing Lou, Thomas Hou, Yevgeniy Vorobeychik, Chongjie Zhang, and Ning Zhang. "Think Twice Before You Act: Protecting LLM Agents Against Tool Description Poisoning via Isolated Planning". International Conference on Machine Learning (**ICML**), 2026.
-- Hexuan Yu, Chaoyu Zhang, Heng Jin, Shanghao Shi, Ning Zhang, Thomas Hou, and Wenjing Lou. "MINIM: Privacy-Aware Minimal View for Agents via Trusted Local Sanitization". International Conference on Machine Learning (**ICML**), 2026.
+- Hexuan Yu, Chaoyu Zhang, Heng Jin, **Shanghao Shi**, Ning Zhang, Thomas Hou, and Wenjing Lou. "MINIM: Privacy-Aware Minimal View for Agents via Trusted Local Sanitization". International Conference on Machine Learning (**ICML**), 2026.
 - Peichun Hua, Hao Li, **Shanghao Shi**, Zhiyuan Yu, and Ning Zhang. "Rethinking Jailbreak Detection of Large Vision Language Models with Representational Contrastive Scoring". Annual Meeting of the Association for Computational Linguistics (**ACL**), 2026.
 
 ## 2025
