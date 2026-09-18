@@ -23,6 +23,7 @@ redirect_from:
   * WiseML 2025 Web Chair
   * VehicleSec 2025 TPC Member
   * ACSAC 2026 PC Member
+  * ESORICS 2026 PC Member
   * MILCOM 2026 TPC Member
   * INFOCOM 2027 TPC Member
   * CNS 2026 TPC Member
@@ -35,6 +36,7 @@ redirect_from:
   * ICCCN 2023
   * INFOCOM 2025, 2026
   * ICML 2026
+  * AAAI 2026
 - Journal Reviewer
   * IEEE Internet of Things Journal
   * IEEE Transactions on Dependable and Secure Computing
@@ -42,4 +44,5 @@ redirect_from:
   * IEEE Transactions on Cognitive Communications and Networking
   * IEEE/ACM Transactions on Networking
   * ACM Transactions on Cyber-Physical Systems
+  * Transactions on Machine Learning Research
 
