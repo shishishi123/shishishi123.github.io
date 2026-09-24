@@ -14,6 +14,8 @@ I am a postdoctoral research associate in the Department of Computer Science and
 * Ph.D. in Computer Science, Virginia Tech, 2019-2025
 
 ## News
+- Two papers accepted by NeurIPS 2026.
+- One paper accepted by MobiHoc 2026.
 - One paper accepted by USENIX Security 2026.
 - I will serve as a PC member for ACSAC 2026.
 - Two papers accepted by ICML 2026.
