@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 ## 2026
-
+- Chaoyu Zhang, **Shanghao Shi**, Heng Jin, Ning Wang, Thomas Hou, Wenjing Lou. "Aegis: Generative Gradient Masking for Privacy-Preserving Medical Federated Learning". Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2026.
+- Sudip Bhujel, **Shanghao Shi**, Ruiquan Huang, Ning Zhang, Yang Xiao. "Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning". Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2026.
+- Changyu Zhang, Hexuan Yu, Heng Jin, Shanghao Shi, Ning Zhang, Yi Shi, Yulia R. Gel, Y. Thomas Hou, Wenjing Lou. "Skynet: Workflow-Level Anomaly Detection for Agentic AI via Semantic and Structural Modeling". International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (**MobiHoc**), 2026.
 - Heng Jin, Chaoyu Zhang, Hexuan Yu, **Shanghao Shi**, Ning Zhang, Y. Thomas Hou, Wenjing Lou. "Trusting What You Cannot See: Auditable Fine-Tuning and Inference for Proprietary AI". USENIX Security Symposium (**USENIX Security**), 2026.
 - **Shanghao Shi**, Xiao Wang, Chaoyu Zhang, Hao Li, Wenjing Lou, Thomas Hou, Yevgeniy Vorobeychik, Chongjie Zhang, and Ning Zhang. "Think Twice Before You Act: Protecting LLM Agents Against Tool Description Poisoning via Isolated Planning". International Conference on Machine Learning (**ICML**), 2026.
 - Hexuan Yu, Chaoyu Zhang, Heng Jin, **Shanghao Shi**, Ning Zhang, Thomas Hou, and Wenjing Lou. "MINIM: Privacy-Aware Minimal View for Agents via Trusted Local Sanitization". International Conference on Machine Learning (**ICML**), 2026.
