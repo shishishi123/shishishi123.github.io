@@ -17,7 +17,7 @@ I am a postdoctoral research associate in the Department of Computer Science and
 - Two papers accepted by NeurIPS 2026.
 - One paper accepted by MobiHoc 2026.
 - One paper accepted by USENIX Security 2026.
-- I will serve as a PC member for ACSAC 2026.
+- I will serve as a TPC member for ACSAC 2026.
 - Two papers accepted by ICML 2026.
 - I will serve as a TPC member for ESORICS 2026.
 - I will serve as a TPC member for INFOCOM 2027.
