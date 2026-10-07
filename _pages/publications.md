@@ -12,7 +12,7 @@ author_profile: true
 - Heng Jin, Chaoyu Zhang, Hexuan Yu, **Shanghao Shi**, Ning Zhang, Y. Thomas Hou, Wenjing Lou. "Trusting What You Cannot See: Auditable Fine-Tuning and Inference for Proprietary AI". USENIX Security Symposium (**USENIX Security**), 2026.
 - **Shanghao Shi**, Xiao Wang, Chaoyu Zhang, Hao Li, Wenjing Lou, Thomas Hou, Yevgeniy Vorobeychik, Chongjie Zhang, and Ning Zhang. "Think Twice Before You Act: Protecting LLM Agents Against Tool Description Poisoning via Isolated Planning". International Conference on Machine Learning (**ICML**), 2026.
 - Hexuan Yu, Chaoyu Zhang, Heng Jin, **Shanghao Shi**, Ning Zhang, Thomas Hou, and Wenjing Lou. "MINIM: Privacy-Aware Minimal View for Agents via Trusted Local Sanitization". International Conference on Machine Learning (**ICML**), 2026.
-- Peichun Hua, Hao Li, **Shanghao Shi**, Zhiyuan Yu, and Ning Zhang. "Rethinking Jailbreak Detection of Large Vision Language Models with Representational Contrastive Scoring". Annual Meeting of the Association for Computational Linguistics (**ACL**), 2026.
+- Peichun Hua, Hao Li, **Shanghao Shi**, Zhiyuan Yu, and Ning Zhang. "Rethinking Jailbreak Detection of Large Vision Language Models with Representational Contrastive Scoring". Annual Meeting of the Association for Computational Linguistics (**ACL**), 2026. (**Oral Presentation**)
 
 ## 2025
 - Zhengyuan Jiang, Xingyu Lyu, **Shanghao Shi**, Yang Xiao, Yimin Chen, Thomas Hou, Wenjing Lou and Ning Wang. "BoBa: Boosting Backdoor Detection through Data Distribution Inference in Federated Learning". European Conference on Artificial Intelligence (**ECAI**), 2025. [[PDF]](https://arxiv.org/pdf/2407.09658)
@@ -23,7 +23,7 @@ author_profile: true
 
 ## 2024
 - Chaoyu Zhang, **Shanghao Shi**, Ning Wang, Xiangxiang Xu, Shaoyu Li, Lizhong Zheng, Randy Marchany, Mark Gardner, Y. Thomas Hou, Wenjing Lou. "Hermes: Boosting the Performance of Machine-Learning-Based Intrusion Detection System through Geometric Feature Learning". International Symposium on Mobile Ad Hoc Networking and Computing (**MobiHoc**), 2024. [[PDF]](http://shishishi123.github.io/files/hermes.pdf)
-- Heng Jin, Chaoyu Zhang, **Shanghao Shi**, Wenjing Lou, and Y. Thomas Hou. "ProFLingo: A Fingerprinting-based Intellectual Property Protection Scheme for Large Language Models". IEEE Conference on Communications and Network Security (**CNS**), 2024. [[PDF]](https://arxiv.org/pdf/2405.02466) (**Distinguished Paper Award**)
+- Heng Jin, Chaoyu Zhang, **Shanghao Shi**, Wenjing Lou, and Y. Thomas Hou. "ProFLingo: A Fingerprinting-based Intellectual Property Protection Scheme for Large Language Models". IEEE Conference on Communications and Network Security (**CNS**), 2024. [[PDF]](https://arxiv.org/pdf/2405.02466) (**Best Paper Award**)
 - Hexuan Yu, **Shanghao Shi**, Yi Shi, Eric Burger, Y. Thomas Hou, and Wenjing Lou. "Pri-Share: Enabling Inter-SAS Privacy Protection via Secure Multi-Party Spectrum Allocation." IEEE International Symposium on Dynamic Spectrum Access Networks (**DySPAN**), 2024. [[PDF]](http://shishishi123.github.io/files/sas-privacy.pdf)
 - **Shanghao Shi**, Yang Xiao, Changlai Du, Yi Shi, Chonggang Wang, Robert Gazda, Y. Thomas Hou, Eric Burger, Luiz DaSilva, and Wenjing Lou. 2024. "TriSAS: Toward Dependable Inter-SAS Coordination with Auditability." ACM Asia Conference on Computer and Communications Security (**ASIACCS**), 2024. [[PDF]](http://shishishi123.github.io/files/trisas.pdf)
 
