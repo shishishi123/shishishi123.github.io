@@ -17,7 +17,7 @@ redirect_from:
 - National Scholarship 2016
 
 ## Teaching
-- Teaching Assistant for CS 1064 -- Intro to Python, Virginia Tech, 2019
+- Teaching Assistant for CS 1064 -- Introduction to Python, Virginia Tech, 2019
 
 ## Service
 - Conference Organization
