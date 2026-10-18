@@ -10,10 +10,11 @@ redirect_from:
 {% include base_path %}
 
 ## Awards
-- National Scholarship 2016
-- BitShares Fellowship 2021, 2023
 - IEEE/ACM CHASE Student Travel Grant 2025
 - Dennis G. Kafura Graduate Fellowship 2025
+- Best Paper Award, IEEE Conference on Communications and Network Security (CNS) 2024
+- BitShares Fellowship 2021, 2023
+- National Scholarship 2016
 
 ## Teaching
 - Teaching Assistant for CS 1064 -- Intro to Python, Virginia Tech, 2019
